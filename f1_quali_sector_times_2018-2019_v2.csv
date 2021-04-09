@@ -1,0 +1,2431 @@
+Year,GrandPrix,Sector,Team,Driver,Time
+2018,Abu-Dhabi,1,Ferrari,S. Vettel,16.681
+2018,Abu-Dhabi,1,Ferrari,K. Raikkonen,16.819
+2018,Abu-Dhabi,1,Sauber,C. Leclerc,16.891
+2018,Abu-Dhabi,1,Mercedes,L. Hamilton,16.893
+2018,Abu-Dhabi,1,Haas,R. Grosjean,16.929
+2018,Abu-Dhabi,1,Mercedes,V. Bottas,16.995
+2018,Abu-Dhabi,1,Sauber,M. Ericsson,17.052
+2018,Abu-Dhabi,1,Racing Point,E. Ocon,17.067
+2018,Abu-Dhabi,1,Haas,K. Magnussen,17.087
+2018,Abu-Dhabi,1,Red Bull,M. Verstappen,17.094
+2018,Abu-Dhabi,1,Red Bull,D. Ricciardo,17.127
+2018,Abu-Dhabi,1,Renault,N. Hulkenberg,17.179
+2018,Abu-Dhabi,1,Racing Point,S. Perez,17.182
+2018,Abu-Dhabi,1,McLaren,F. Alonso,17.191
+2018,Abu-Dhabi,1,Williams,L. Stroll,17.385
+2018,Abu-Dhabi,1,Williams,S. Sirotkin,17.423
+2018,Abu-Dhabi,1,McLaren,S. Vandoorne,17.438
+2018,Abu-Dhabi,1,Toro Rosso,B. Hartley,17.45
+2018,Abu-Dhabi,1,Toro Rosso,P. Gasly,17.459
+2018,Abu-Dhabi,2,Mercedes,V. Bottas,40.521
+2018,Abu-Dhabi,2,Mercedes,L. Hamilton,40.545
+2018,Abu-Dhabi,2,Ferrari,S. Vettel,40.581
+2018,Abu-Dhabi,2,Ferrari,K. Raikkonen,40.672
+2018,Abu-Dhabi,2,Sauber,C. Leclerc,40.755
+2018,Abu-Dhabi,2,Red Bull,M. Verstappen,40.839
+2018,Abu-Dhabi,2,Red Bull,D. Ricciardo,40.853
+2018,Abu-Dhabi,2,Racing Point,E. Ocon,40.879
+2018,Abu-Dhabi,2,Haas,R. Grosjean,40.917
+2018,Abu-Dhabi,2,Renault,N. Hulkenberg,41.091
+2018,Abu-Dhabi,2,Racing Point,S. Perez,41.18
+2018,Abu-Dhabi,2,Sauber,M. Ericsson,41.208
+2018,Abu-Dhabi,2,Haas,K. Magnussen,41.298
+2018,Abu-Dhabi,2,Toro Rosso,P. Gasly,41.419
+2018,Abu-Dhabi,2,McLaren,F. Alonso,41.538
+2018,Abu-Dhabi,2,Toro Rosso,B. Hartley,41.589
+2018,Abu-Dhabi,2,Williams,S. Sirotkin,41.626
+2018,Abu-Dhabi,2,McLaren,S. Vandoorne,41.761
+2018,Abu-Dhabi,2,Williams,L. Stroll,41.865
+2018,Abu-Dhabi,3,Red Bull,D. Ricciardo,37.263
+2018,Abu-Dhabi,3,Mercedes,L. Hamilton,37.356
+2018,Abu-Dhabi,3,Mercedes,V. Bottas,37.44
+2018,Abu-Dhabi,3,Red Bull,M. Verstappen,37.634
+2018,Abu-Dhabi,3,Ferrari,S. Vettel,37.858
+2018,Abu-Dhabi,3,Ferrari,K. Raikkonen,37.862
+2018,Abu-Dhabi,3,Renault,N. Hulkenberg,38.142
+2018,Abu-Dhabi,3,Haas,R. Grosjean,38.174
+2018,Abu-Dhabi,3,Sauber,C. Leclerc,38.536
+2018,Abu-Dhabi,3,Racing Point,E. Ocon,38.594
+2018,Abu-Dhabi,3,Sauber,M. Ericsson,38.869
+2018,Abu-Dhabi,3,Racing Point,S. Perez,38.88
+2018,Abu-Dhabi,3,Toro Rosso,B. Hartley,38.905
+2018,Abu-Dhabi,3,Haas,K. Magnussen,38.924
+2018,Abu-Dhabi,3,McLaren,F. Alonso,38.973
+2018,Abu-Dhabi,3,Toro Rosso,P. Gasly,39.01
+2018,Abu-Dhabi,3,McLaren,S. Vandoorne,39.378
+2018,Abu-Dhabi,3,Williams,L. Stroll,39.432
+2018,Abu-Dhabi,3,Williams,S. Sirotkin,39.586
+2018,Australia,1,Mercedes,L. Hamilton,26.698
+2018,Australia,1,Red Bull,M. Verstappen,26.971
+2018,Australia,1,Ferrari,K. Raikkonen,26.992
+2018,Australia,1,Ferrari,S. Vettel,27.018
+2018,Australia,1,Mercedes,V. Bottas,27.169
+2018,Australia,1,Red Bull,D. Ricciardo,27.237
+2018,Australia,1,Haas,K. Magnussen,27.487
+2018,Australia,1,McLaren,F. Alonso,27.489
+2018,Australia,1,Renault,N. Hulkenberg,27.521
+2018,Australia,1,Haas,R. Grosjean,27.546
+2018,Australia,1,McLaren,S. Vandoorne,27.567
+2018,Australia,1,Racing Point,S. Perez,27.618
+2018,Australia,1,Williams,L. Stroll,27.793
+2018,Australia,1,Sauber,M. Ericsson,27.812
+2018,Australia,1,Racing Point,E. Ocon,27.865
+2018,Australia,1,Williams,S. Sirotkin,27.964
+2018,Australia,1,Toro Rosso,B. Hartley,27.993
+2018,Australia,1,Toro Rosso,P. Gasly,28.146
+2018,Australia,1,Sauber,C. Leclerc,28.153
+2018,Australia,2,Mercedes,L. Hamilton,22.066
+2018,Australia,2,Ferrari,S. Vettel,22.129
+2018,Australia,2,Ferrari,K. Raikkonen,22.204
+2018,Australia,2,Red Bull,M. Verstappen,22.241
+2018,Australia,2,Mercedes,V. Bottas,22.332
+2018,Australia,2,Red Bull,D. Ricciardo,22.448
+2018,Australia,2,Haas,K. Magnussen,22.628
+2018,Australia,2,Haas,R. Grosjean,22.636
+2018,Australia,2,McLaren,F. Alonso,22.647
+2018,Australia,2,Renault,N. Hulkenberg,22.653
+2018,Australia,2,McLaren,S. Vandoorne,22.741
+2018,Australia,2,Williams,L. Stroll,22.771
+2018,Australia,2,Racing Point,S. Perez,22.786
+2018,Australia,2,Sauber,C. Leclerc,22.901
+2018,Australia,2,Racing Point,E. Ocon,22.938
+2018,Australia,2,Toro Rosso,B. Hartley,22.942
+2018,Australia,2,Sauber,M. Ericsson,22.963
+2018,Australia,2,Williams,S. Sirotkin,23.1
+2018,Australia,2,Toro Rosso,P. Gasly,23.144
+2018,Australia,3,Mercedes,L. Hamilton,32.4
+2018,Australia,3,Red Bull,D. Ricciardo,32.464
+2018,Australia,3,Red Bull,M. Verstappen,32.563
+2018,Australia,3,Mercedes,V. Bottas,32.588
+2018,Australia,3,Ferrari,K. Raikkonen,32.632
+2018,Australia,3,Ferrari,S. Vettel,32.691
+2018,Australia,3,Haas,K. Magnussen,33.065
+2018,Australia,3,Haas,R. Grosjean,33.109
+2018,Australia,3,Renault,N. Hulkenberg,33.176
+2018,Australia,3,McLaren,F. Alonso,33.206
+2018,Australia,3,McLaren,S. Vandoorne,33.387
+2018,Australia,3,Racing Point,S. Perez,33.518
+2018,Australia,3,Racing Point,E. Ocon,33.572
+2018,Australia,3,Sauber,C. Leclerc,33.582
+2018,Australia,3,Toro Rosso,B. Hartley,33.597
+2018,Australia,3,Williams,S. Sirotkin,33.62
+2018,Australia,3,Williams,L. Stroll,33.657
+2018,Australia,3,Sauber,M. Ericsson,33.704
+2018,Australia,3,Toro Rosso,P. Gasly,33.959
+2018,Austria,1,Mercedes,V. Bottas,16.018
+2018,Austria,1,Mercedes,L. Hamilton,16.025
+2018,Austria,1,Ferrari,K. Raikkonen,16.066
+2018,Austria,1,Ferrari,S. Vettel,16.163
+2018,Austria,1,Red Bull,M. Verstappen,16.2
+2018,Austria,1,Racing Point,E. Ocon,16.225
+2018,Austria,1,Haas,R. Grosjean,16.239
+2018,Austria,1,Haas,K. Magnussen,16.247
+2018,Austria,1,Racing Point,S. Perez,16.271
+2018,Austria,1,Red Bull,D. Ricciardo,16.316
+2018,Austria,1,Renault,N. Hulkenberg,16.319
+2018,Austria,1,Sauber,C. Leclerc,16.354
+2018,Austria,1,Toro Rosso,P. Gasly,16.403
+2018,Austria,1,McLaren,F. Alonso,16.426
+2018,Austria,1,Williams,L. Stroll,16.438
+2018,Austria,1,Williams,S. Sirotkin,16.484
+2018,Austria,1,McLaren,S. Vandoorne,16.515
+2018,Austria,1,Toro Rosso,B. Hartley,16.538
+2018,Austria,1,Sauber,M. Ericsson,16.565
+2018,Austria,2,Ferrari,S. Vettel,27.913
+2018,Austria,2,Mercedes,L. Hamilton,28.011
+2018,Austria,2,Mercedes,V. Bottas,28.013
+2018,Austria,2,Ferrari,K. Raikkonen,28.022
+2018,Austria,2,Red Bull,D. Ricciardo,28.137
+2018,Austria,2,Red Bull,M. Verstappen,28.182
+2018,Austria,2,Haas,R. Grosjean,28.23
+2018,Austria,2,Haas,K. Magnussen,28.24
+2018,Austria,2,Renault,N. Hulkenberg,28.364
+2018,Austria,2,Toro Rosso,P. Gasly,28.552
+2018,Austria,2,Sauber,C. Leclerc,28.578
+2018,Austria,2,Racing Point,E. Ocon,28.583
+2018,Austria,2,McLaren,F. Alonso,28.632
+2018,Austria,2,Williams,L. Stroll,28.757
+2018,Austria,2,McLaren,S. Vandoorne,28.874
+2018,Austria,2,Toro Rosso,B. Hartley,28.904
+2018,Austria,2,Racing Point,S. Perez,28.936
+2018,Austria,2,Williams,S. Sirotkin,28.971
+2018,Austria,2,Sauber,M. Ericsson,29.038
+2018,Austria,3,Mercedes,V. Bottas,19.099
+2018,Austria,3,Mercedes,L. Hamilton,19.113
+2018,Austria,3,Ferrari,S. Vettel,19.336
+2018,Austria,3,Haas,R. Grosjean,19.385
+2018,Austria,3,Red Bull,M. Verstappen,19.406
+2018,Austria,3,Red Bull,D. Ricciardo,19.475
+2018,Austria,3,Ferrari,K. Raikkonen,19.554
+2018,Austria,3,Haas,K. Magnussen,19.564
+2018,Austria,3,Sauber,C. Leclerc,19.779
+2018,Austria,3,Toro Rosso,P. Gasly,19.792
+2018,Austria,3,Sauber,M. Ericsson,19.805
+2018,Austria,3,McLaren,F. Alonso,19.828
+2018,Austria,3,Williams,S. Sirotkin,19.828
+2018,Austria,3,Renault,N. Hulkenberg,19.85
+2018,Austria,3,Toro Rosso,B. Hartley,19.875
+2018,Austria,3,Racing Point,E. Ocon,19.878
+2018,Austria,3,McLaren,S. Vandoorne,19.882
+2018,Austria,3,Williams,L. Stroll,19.912
+2018,Austria,3,Racing Point,S. Perez,20.017
+2018,Azerbaijan,1,Haas,R. Grosjean,0
+2018,Azerbaijan,1,Ferrari,K. Raikkonen,35.283
+2018,Azerbaijan,1,Mercedes,L. Hamilton,35.296
+2018,Azerbaijan,1,Ferrari,S. Vettel,35.305
+2018,Azerbaijan,1,Mercedes,V. Bottas,35.477
+2018,Azerbaijan,1,Red Bull,D. Ricciardo,35.629
+2018,Azerbaijan,1,Red Bull,M. Verstappen,35.664
+2018,Azerbaijan,1,Racing Point,S. Perez,35.708
+2018,Azerbaijan,1,Racing Point,E. Ocon,35.74
+2018,Azerbaijan,1,Renault,N. Hulkenberg,35.861
+2018,Azerbaijan,1,McLaren,F. Alonso,36.133
+2018,Azerbaijan,1,Williams,L. Stroll,36.138
+2018,Azerbaijan,1,Williams,S. Sirotkin,36.154
+2018,Azerbaijan,1,Sauber,C. Leclerc,36.195
+2018,Azerbaijan,1,Toro Rosso,P. Gasly,36.279
+2018,Azerbaijan,1,Haas,K. Magnussen,36.439
+2018,Azerbaijan,1,McLaren,S. Vandoorne,36.634
+2018,Azerbaijan,1,Sauber,M. Ericsson,36.679
+2018,Azerbaijan,1,Toro Rosso,B. Hartley,36.741
+2018,Azerbaijan,2,Ferrari,K. Raikkonen,40.704
+2018,Azerbaijan,2,Red Bull,M. Verstappen,40.82
+2018,Azerbaijan,2,Red Bull,D. Ricciardo,40.863
+2018,Azerbaijan,2,Ferrari,S. Vettel,40.905
+2018,Azerbaijan,2,Mercedes,V. Bottas,41.155
+2018,Azerbaijan,2,Mercedes,L. Hamilton,41.158
+2018,Azerbaijan,2,Racing Point,S. Perez,41.43
+2018,Azerbaijan,2,Racing Point,E. Ocon,41.441
+2018,Azerbaijan,2,Renault,N. Hulkenberg,41.48
+2018,Azerbaijan,2,Williams,L. Stroll,41.571
+2018,Azerbaijan,2,McLaren,F. Alonso,41.749
+2018,Azerbaijan,2,Sauber,C. Leclerc,41.754
+2018,Azerbaijan,2,Williams,S. Sirotkin,41.797
+2018,Azerbaijan,2,Haas,K. Magnussen,41.886
+2018,Azerbaijan,2,McLaren,S. Vandoorne,42.079
+2018,Azerbaijan,2,Toro Rosso,P. Gasly,42.229
+2018,Azerbaijan,2,Sauber,M. Ericsson,42.651
+2018,Azerbaijan,2,Toro Rosso,B. Hartley,47.863
+2018,Azerbaijan,2,Haas,R. Grosjean,55.084
+2018,Azerbaijan,3,Racing Point,E. Ocon,25.044
+2018,Azerbaijan,3,Mercedes,L. Hamilton,25.091
+2018,Azerbaijan,3,Mercedes,V. Bottas,25.183
+2018,Azerbaijan,3,Red Bull,D. Ricciardo,25.213
+2018,Azerbaijan,3,Ferrari,S. Vettel,25.288
+2018,Azerbaijan,3,Red Bull,M. Verstappen,25.293
+2018,Azerbaijan,3,Racing Point,S. Perez,25.304
+2018,Azerbaijan,3,Haas,K. Magnussen,25.328
+2018,Azerbaijan,3,Ferrari,K. Raikkonen,25.426
+2018,Azerbaijan,3,Williams,S. Sirotkin,25.427
+2018,Azerbaijan,3,Sauber,C. Leclerc,25.577
+2018,Azerbaijan,3,Renault,N. Hulkenberg,25.586
+2018,Azerbaijan,3,Williams,L. Stroll,25.61
+2018,Azerbaijan,3,McLaren,F. Alonso,25.643
+2018,Azerbaijan,3,McLaren,S. Vandoorne,25.735
+2018,Azerbaijan,3,Toro Rosso,P. Gasly,25.872
+2018,Azerbaijan,3,Sauber,M. Ericsson,25.948
+2018,Azerbaijan,3,Haas,R. Grosjean,27.562
+2018,Azerbaijan,3,Toro Rosso,B. Hartley,27.892
+2018,Bahrein,1,Ferrari,S. Vettel,27.989
+2018,Bahrein,1,Mercedes,V. Bottas,28.014
+2018,Bahrein,1,Ferrari,K. Raikkonen,28.047
+2018,Bahrein,1,Mercedes,L. Hamilton,28.081
+2018,Bahrein,1,Red Bull,D. Ricciardo,28.275
+2018,Bahrein,1,Toro Rosso,P. Gasly,28.413
+2018,Bahrein,1,Haas,K. Magnussen,28.447
+2018,Bahrein,1,Racing Point,E. Ocon,28.481
+2018,Bahrein,1,Racing Point,S. Perez,28.564
+2018,Bahrein,1,Renault,N. Hulkenberg,28.582
+2018,Bahrein,1,Toro Rosso,B. Hartley,28.681
+2018,Bahrein,1,Red Bull,M. Verstappen,28.732
+2018,Bahrein,1,Haas,R. Grosjean,28.782
+2018,Bahrein,1,McLaren,F. Alonso,28.858
+2018,Bahrein,1,Sauber,M. Ericsson,28.878
+2018,Bahrein,1,McLaren,S. Vandoorne,28.998
+2018,Bahrein,1,Williams,S. Sirotkin,29.056
+2018,Bahrein,1,Williams,L. Stroll,29.107
+2018,Bahrein,1,Sauber,C. Leclerc,29.127
+2018,Bahrein,2,Ferrari,K. Raikkonen,37.859
+2018,Bahrein,2,Red Bull,D. Ricciardo,37.877
+2018,Bahrein,2,Ferrari,S. Vettel,37.893
+2018,Bahrein,2,Mercedes,V. Bottas,37.98
+2018,Bahrein,2,Mercedes,L. Hamilton,37.99
+2018,Bahrein,2,Renault,N. Hulkenberg,38.362
+2018,Bahrein,2,Red Bull,M. Verstappen,38.391
+2018,Bahrein,2,Haas,K. Magnussen,38.415
+2018,Bahrein,2,Toro Rosso,P. Gasly,38.471
+2018,Bahrein,2,McLaren,F. Alonso,38.64
+2018,Bahrein,2,Racing Point,E. Ocon,38.691
+2018,Bahrein,2,McLaren,S. Vandoorne,38.791
+2018,Bahrein,2,Racing Point,S. Perez,38.855
+2018,Bahrein,2,Haas,R. Grosjean,38.903
+2018,Bahrein,2,Toro Rosso,B. Hartley,38.918
+2018,Bahrein,2,Sauber,M. Ericsson,39.11
+2018,Bahrein,2,Sauber,C. Leclerc,39.273
+2018,Bahrein,2,Williams,S. Sirotkin,39.454
+2018,Bahrein,2,Williams,L. Stroll,39.506
+2018,Bahrein,3,Mercedes,L. Hamilton,22.053
+2018,Bahrein,3,Ferrari,S. Vettel,22.076
+2018,Bahrein,3,Red Bull,D. Ricciardo,22.081
+2018,Bahrein,3,Ferrari,K. Raikkonen,22.121
+2018,Bahrein,3,Mercedes,V. Bottas,22.129
+2018,Bahrein,3,Renault,N. Hulkenberg,22.243
+2018,Bahrein,3,Red Bull,M. Verstappen,22.251
+2018,Bahrein,3,Haas,K. Magnussen,22.384
+2018,Bahrein,3,Toro Rosso,P. Gasly,22.445
+2018,Bahrein,3,Toro Rosso,B. Hartley,22.476
+2018,Bahrein,3,McLaren,S. Vandoorne,22.57
+2018,Bahrein,3,McLaren,F. Alonso,22.609
+2018,Bahrein,3,Racing Point,E. Ocon,22.619
+2018,Bahrein,3,Racing Point,S. Perez,22.642
+2018,Bahrein,3,Sauber,C. Leclerc,22.743
+2018,Bahrein,3,Williams,S. Sirotkin,22.838
+2018,Bahrein,3,Haas,R. Grosjean,22.845
+2018,Bahrein,3,Sauber,M. Ericsson,22.854
+2018,Bahrein,3,Williams,L. Stroll,22.89
+2018,Belgium,1,Ferrari,S. Vettel,29.872
+2018,Belgium,1,Ferrari,K. Raikkonen,29.957
+2018,Belgium,1,Racing Point,S. Perez,29.963
+2018,Belgium,1,Racing Point,E. Ocon,30.154
+2018,Belgium,1,Mercedes,L. Hamilton,30.217
+2018,Belgium,1,Haas,K. Magnussen,30.238
+2018,Belgium,1,Haas,R. Grosjean,30.251
+2018,Belgium,1,Mercedes,V. Bottas,30.262
+2018,Belgium,1,Red Bull,D. Ricciardo,30.369
+2018,Belgium,1,Toro Rosso,B. Hartley,30.41
+2018,Belgium,1,Red Bull,M. Verstappen,30.421
+2018,Belgium,1,Sauber,M. Ericsson,30.532
+2018,Belgium,1,Sauber,C. Leclerc,30.6
+2018,Belgium,1,Toro Rosso,P. Gasly,30.633
+2018,Belgium,1,Williams,L. Stroll,30.665
+2018,Belgium,1,Renault,N. Hulkenberg,30.687
+2018,Belgium,1,McLaren,F. Alonso,30.699
+2018,Belgium,1,Williams,S. Sirotkin,30.824
+2018,Belgium,1,McLaren,S. Vandoorne,31.066
+2018,Belgium,2,Mercedes,L. Hamilton,43.115
+2018,Belgium,2,Ferrari,K. Raikkonen,43.426
+2018,Belgium,2,Ferrari,S. Vettel,43.496
+2018,Belgium,2,Mercedes,V. Bottas,43.521
+2018,Belgium,2,Red Bull,M. Verstappen,43.909
+2018,Belgium,2,Haas,R. Grosjean,44.14
+2018,Belgium,2,Red Bull,D. Ricciardo,44.429
+2018,Belgium,2,Sauber,C. Leclerc,44.439
+2018,Belgium,2,Haas,K. Magnussen,44.496
+2018,Belgium,2,Toro Rosso,P. Gasly,44.56
+2018,Belgium,2,Racing Point,S. Perez,44.663
+2018,Belgium,2,Sauber,M. Ericsson,44.678
+2018,Belgium,2,Toro Rosso,B. Hartley,44.795
+2018,Belgium,2,Racing Point,E. Ocon,44.821
+2018,Belgium,2,Renault,N. Hulkenberg,44.859
+2018,Belgium,2,Williams,S. Sirotkin,45.221
+2018,Belgium,2,McLaren,F. Alonso,45.325
+2018,Belgium,2,McLaren,S. Vandoorne,45.576
+2018,Belgium,2,Williams,L. Stroll,45.65
+2018,Belgium,3,Ferrari,S. Vettel,28.12
+2018,Belgium,3,Ferrari,K. Raikkonen,28.135
+2018,Belgium,3,Mercedes,L. Hamilton,28.221
+2018,Belgium,3,Red Bull,M. Verstappen,28.224
+2018,Belgium,3,Racing Point,E. Ocon,28.327
+2018,Belgium,3,Red Bull,D. Ricciardo,28.328
+2018,Belgium,3,Racing Point,S. Perez,28.388
+2018,Belgium,3,Mercedes,V. Bottas,28.408
+2018,Belgium,3,Haas,R. Grosjean,28.481
+2018,Belgium,3,Sauber,C. Leclerc,28.503
+2018,Belgium,3,Haas,K. Magnussen,28.51
+2018,Belgium,3,Sauber,M. Ericsson,28.549
+2018,Belgium,3,Toro Rosso,B. Hartley,28.557
+2018,Belgium,3,Renault,N. Hulkenberg,28.599
+2018,Belgium,3,Toro Rosso,P. Gasly,28.645
+2018,Belgium,3,McLaren,S. Vandoorne,28.649
+2018,Belgium,3,Williams,L. Stroll,28.752
+2018,Belgium,3,McLaren,F. Alonso,28.804
+2018,Belgium,3,Williams,S. Sirotkin,28.953
+2018,Brazil,1,Ferrari,S. Vettel,17.327
+2018,Brazil,1,Ferrari,K. Raikkonen,17.38
+2018,Brazil,1,Mercedes,V. Bottas,17.445
+2018,Brazil,1,Mercedes,L. Hamilton,17.454
+2018,Brazil,1,Racing Point,E. Ocon,17.595
+2018,Brazil,1,Haas,K. Magnussen,17.613
+2018,Brazil,1,Sauber,C. Leclerc,17.634
+2018,Brazil,1,Red Bull,M. Verstappen,17.639
+2018,Brazil,1,Red Bull,D. Ricciardo,17.654
+2018,Brazil,1,Sauber,M. Ericsson,17.668
+2018,Brazil,1,Haas,R. Grosjean,17.683
+2018,Brazil,1,Toro Rosso,P. Gasly,17.725
+2018,Brazil,1,Racing Point,S. Perez,17.747
+2018,Brazil,1,Renault,N. Hulkenberg,17.802
+2018,Brazil,1,Williams,L. Stroll,17.882
+2018,Brazil,1,Williams,S. Sirotkin,17.935
+2018,Brazil,1,McLaren,S. Vandoorne,17.952
+2018,Brazil,1,McLaren,F. Alonso,17.961
+2018,Brazil,1,Toro Rosso,B. Hartley,18.027
+2018,Brazil,2,Mercedes,L. Hamilton,34.122
+2018,Brazil,2,Red Bull,M. Verstappen,34.228
+2018,Brazil,2,Red Bull,D. Ricciardo,34.232
+2018,Brazil,2,Mercedes,V. Bottas,34.241
+2018,Brazil,2,Ferrari,S. Vettel,34.287
+2018,Brazil,2,Ferrari,K. Raikkonen,34.29
+2018,Brazil,2,Haas,R. Grosjean,34.603
+2018,Brazil,2,Sauber,M. Ericsson,34.693
+2018,Brazil,2,Haas,K. Magnussen,34.707
+2018,Brazil,2,Sauber,C. Leclerc,34.783
+2018,Brazil,2,Toro Rosso,P. Gasly,34.869
+2018,Brazil,2,Renault,N. Hulkenberg,34.874
+2018,Brazil,2,Racing Point,E. Ocon,34.981
+2018,Brazil,2,Racing Point,S. Perez,35.014
+2018,Brazil,2,Toro Rosso,B. Hartley,35.17
+2018,Brazil,2,Williams,S. Sirotkin,35.197
+2018,Brazil,2,McLaren,F. Alonso,35.255
+2018,Brazil,2,McLaren,S. Vandoorne,35.266
+2018,Brazil,2,Williams,L. Stroll,35.354
+2018,Brazil,3,Mercedes,L. Hamilton,15.601
+2018,Brazil,3,Ferrari,S. Vettel,15.601
+2018,Brazil,3,Mercedes,V. Bottas,15.625
+2018,Brazil,3,Ferrari,K. Raikkonen,15.671
+2018,Brazil,3,Sauber,C. Leclerc,15.681
+2018,Brazil,3,Sauber,M. Ericsson,15.799
+2018,Brazil,3,Red Bull,D. Ricciardo,15.894
+2018,Brazil,3,Red Bull,M. Verstappen,15.911
+2018,Brazil,3,Haas,R. Grosjean,15.941
+2018,Brazil,3,Racing Point,E. Ocon,15.945
+2018,Brazil,3,Renault,N. Hulkenberg,15.949
+2018,Brazil,3,Haas,K. Magnussen,15.965
+2018,Brazil,3,Racing Point,S. Perez,15.969
+2018,Brazil,3,Toro Rosso,P. Gasly,15.979
+2018,Brazil,3,Toro Rosso,B. Hartley,16.083
+2018,Brazil,3,Williams,L. Stroll,16.084
+2018,Brazil,3,Williams,S. Sirotkin,16.113
+2018,Brazil,3,McLaren,F. Alonso,16.13
+2018,Brazil,3,McLaren,S. Vandoorne,16.23
+2018,Canada,1,Red Bull,M. Verstappen,19.42
+2018,Canada,1,Mercedes,V. Bottas,19.423
+2018,Canada,1,Mercedes,L. Hamilton,19.43
+2018,Canada,1,Ferrari,S. Vettel,19.48
+2018,Canada,1,Red Bull,D. Ricciardo,19.523
+2018,Canada,1,Ferrari,K. Raikkonen,19.638
+2018,Canada,1,Renault,N. Hulkenberg,19.922
+2018,Canada,1,Racing Point,E. Ocon,19.93
+2018,Canada,1,Racing Point,S. Perez,19.934
+2018,Canada,1,McLaren,F. Alonso,20.015
+2018,Canada,1,Toro Rosso,B. Hartley,20.02
+2018,Canada,1,Haas,K. Magnussen,20.024
+2018,Canada,1,Sauber,C. Leclerc,20.06
+2018,Canada,1,McLaren,S. Vandoorne,20.152
+2018,Canada,1,Toro Rosso,P. Gasly,20.219
+2018,Canada,1,Williams,S. Sirotkin,20.281
+2018,Canada,1,Williams,L. Stroll,20.332
+2018,Canada,1,Sauber,M. Ericsson,20.593
+2018,Canada,2,Ferrari,S. Vettel,22.626
+2018,Canada,2,Ferrari,K. Raikkonen,22.671
+2018,Canada,2,Red Bull,D. Ricciardo,22.672
+2018,Canada,2,Mercedes,V. Bottas,22.693
+2018,Canada,2,Red Bull,M. Verstappen,22.695
+2018,Canada,2,Mercedes,L. Hamilton,22.696
+2018,Canada,2,Renault,N. Hulkenberg,22.954
+2018,Canada,2,Haas,K. Magnussen,23.095
+2018,Canada,2,Racing Point,E. Ocon,23.11
+2018,Canada,2,Racing Point,S. Perez,23.127
+2018,Canada,2,Toro Rosso,B. Hartley,23.288
+2018,Canada,2,McLaren,S. Vandoorne,23.346
+2018,Canada,2,McLaren,F. Alonso,23.353
+2018,Canada,2,Sauber,C. Leclerc,23.41
+2018,Canada,2,Toro Rosso,P. Gasly,23.427
+2018,Canada,2,Williams,L. Stroll,23.471
+2018,Canada,2,Williams,S. Sirotkin,23.624
+2018,Canada,2,Sauber,M. Ericsson,23.843
+2018,Canada,3,Ferrari,S. Vettel,28.57
+2018,Canada,3,Mercedes,V. Bottas,28.689
+2018,Canada,3,Ferrari,K. Raikkonen,28.745
+2018,Canada,3,Red Bull,M. Verstappen,28.802
+2018,Canada,3,Mercedes,L. Hamilton,28.869
+2018,Canada,3,Red Bull,D. Ricciardo,28.921
+2018,Canada,3,Renault,N. Hulkenberg,28.924
+2018,Canada,3,Racing Point,E. Ocon,28.946
+2018,Canada,3,Sauber,C. Leclerc,29.131
+2018,Canada,3,Toro Rosso,B. Hartley,29.135
+2018,Canada,3,Racing Point,S. Perez,29.199
+2018,Canada,3,Haas,K. Magnussen,29.279
+2018,Canada,3,McLaren,S. Vandoorne,29.367
+2018,Canada,3,McLaren,F. Alonso,29.376
+2018,Canada,3,Toro Rosso,P. Gasly,29.386
+2018,Canada,3,Williams,S. Sirotkin,29.598
+2018,Canada,3,Williams,L. Stroll,29.73
+2018,Canada,3,Sauber,M. Ericsson,29.96
+2018,China,1,Ferrari,K. Raikkonen,24.006
+2018,China,1,Ferrari,S. Vettel,24.044
+2018,China,1,Red Bull,M. Verstappen,24.171
+2018,China,1,Mercedes,L. Hamilton,24.261
+2018,China,1,Red Bull,D. Ricciardo,24.308
+2018,China,1,Mercedes,V. Bottas,24.312
+2018,China,1,Haas,R. Grosjean,24.392
+2018,China,1,Renault,N. Hulkenberg,24.47
+2018,China,1,Racing Point,E. Ocon,24.481
+2018,China,1,Racing Point,S. Perez,24.499
+2018,China,1,Haas,K. Magnussen,24.564
+2018,China,1,McLaren,F. Alonso,24.628
+2018,China,1,Toro Rosso,B. Hartley,24.754
+2018,China,1,Sauber,M. Ericsson,24.813
+2018,China,1,McLaren,S. Vandoorne,24.863
+2018,China,1,Sauber,C. Leclerc,24.907
+2018,China,1,Williams,S. Sirotkin,24.987
+2018,China,1,Toro Rosso,P. Gasly,24.99
+2018,China,1,Williams,L. Stroll,25.045
+2018,China,2,Ferrari,K. Raikkonen,27.109
+2018,China,2,Ferrari,S. Vettel,27.122
+2018,China,2,Mercedes,V. Bottas,27.183
+2018,China,2,Mercedes,L. Hamilton,27.262
+2018,China,2,Red Bull,M. Verstappen,27.306
+2018,China,2,Red Bull,D. Ricciardo,27.307
+2018,China,2,Renault,N. Hulkenberg,27.491
+2018,China,2,Haas,R. Grosjean,27.607
+2018,China,2,Racing Point,S. Perez,27.739
+2018,China,2,Racing Point,E. Ocon,27.802
+2018,China,2,McLaren,F. Alonso,27.811
+2018,China,2,Haas,K. Magnussen,27.864
+2018,China,2,Toro Rosso,B. Hartley,27.869
+2018,China,2,Williams,S. Sirotkin,27.902
+2018,China,2,McLaren,S. Vandoorne,27.979
+2018,China,2,Toro Rosso,P. Gasly,27.997
+2018,China,2,Williams,L. Stroll,28.051
+2018,China,2,Sauber,C. Leclerc,28.16
+2018,China,2,Sauber,M. Ericsson,28.22
+2018,China,3,Ferrari,S. Vettel,39.929
+2018,China,3,Ferrari,K. Raikkonen,39.936
+2018,China,3,Mercedes,V. Bottas,40.035
+2018,China,3,Mercedes,L. Hamilton,40.045
+2018,China,3,Red Bull,M. Verstappen,40.254
+2018,China,3,Red Bull,D. Ricciardo,40.281
+2018,China,3,Renault,N. Hulkenberg,40.352
+2018,China,3,Haas,K. Magnussen,40.499
+2018,China,3,Racing Point,S. Perez,40.52
+2018,China,3,Haas,R. Grosjean,40.525
+2018,China,3,McLaren,S. Vandoorne,40.61
+2018,China,3,McLaren,F. Alonso,40.705
+2018,China,3,Racing Point,E. Ocon,40.774
+2018,China,3,Toro Rosso,P. Gasly,40.993
+2018,China,3,Toro Rosso,B. Hartley,41.049
+2018,China,3,Williams,S. Sirotkin,41.161
+2018,China,3,Williams,L. Stroll,41.189
+2018,China,3,Sauber,C. Leclerc,41.315
+2018,China,3,Sauber,M. Ericsson,41.763
+2018,France,1,Mercedes,L. Hamilton,22.225
+2018,France,1,Mercedes,V. Bottas,22.408
+2018,France,1,Red Bull,M. Verstappen,22.504
+2018,France,1,Red Bull,D. Ricciardo,22.534
+2018,France,1,Ferrari,S. Vettel,22.542
+2018,France,1,Ferrari,K. Raikkonen,22.552
+2018,France,1,Haas,R. Grosjean,22.682
+2018,France,1,Haas,K. Magnussen,22.76
+2018,France,1,Sauber,C. Leclerc,22.841
+2018,France,1,Toro Rosso,P. Gasly,22.898
+2018,France,1,Racing Point,E. Ocon,22.961
+2018,France,1,Renault,N. Hulkenberg,22.966
+2018,France,1,Racing Point,S. Perez,23.041
+2018,France,1,Toro Rosso,B. Hartley,23.162
+2018,France,1,Sauber,M. Ericsson,23.193
+2018,France,1,Williams,S. Sirotkin,23.217
+2018,France,1,McLaren,F. Alonso,23.227
+2018,France,1,McLaren,S. Vandoorne,23.406
+2018,France,1,Williams,L. Stroll,23.44
+2018,France,2,Mercedes,V. Bottas,27.569
+2018,France,2,Mercedes,L. Hamilton,27.585
+2018,France,2,Red Bull,M. Verstappen,27.714
+2018,France,2,Ferrari,K. Raikkonen,27.736
+2018,France,2,Ferrari,S. Vettel,27.77
+2018,France,2,Red Bull,D. Ricciardo,27.789
+2018,France,2,Haas,R. Grosjean,28.092
+2018,France,2,Haas,K. Magnussen,28.14
+2018,France,2,Sauber,C. Leclerc,28.147
+2018,France,2,Racing Point,E. Ocon,28.16
+2018,France,2,Renault,N. Hulkenberg,28.211
+2018,France,2,Sauber,M. Ericsson,28.281
+2018,France,2,Racing Point,S. Perez,28.317
+2018,France,2,McLaren,S. Vandoorne,28.343
+2018,France,2,Toro Rosso,B. Hartley,28.385
+2018,France,2,McLaren,F. Alonso,28.449
+2018,France,2,Toro Rosso,P. Gasly,28.449
+2018,France,2,Williams,S. Sirotkin,28.466
+2018,France,2,Williams,L. Stroll,28.52
+2018,France,3,Mercedes,L. Hamilton,39.932
+2018,France,3,Mercedes,V. Bottas,40.028
+2018,France,3,Ferrari,S. Vettel,40.059
+2018,France,3,Ferrari,K. Raikkonen,40.264
+2018,France,3,Red Bull,D. Ricciardo,40.283
+2018,France,3,Red Bull,M. Verstappen,40.296
+2018,France,3,Haas,K. Magnussen,40.61
+2018,France,3,Haas,R. Grosjean,40.698
+2018,France,3,Renault,N. Hulkenberg,40.938
+2018,France,3,Racing Point,E. Ocon,40.954
+2018,France,3,Toro Rosso,P. Gasly,40.984
+2018,France,3,Racing Point,S. Perez,40.995
+2018,France,3,Sauber,C. Leclerc,41.067
+2018,France,3,Sauber,M. Ericsson,41.093
+2018,France,3,McLaren,F. Alonso,41.223
+2018,France,3,Toro Rosso,B. Hartley,41.319
+2018,France,3,McLaren,S. Vandoorne,41.38
+2018,France,3,Williams,L. Stroll,41.593
+2018,France,3,Williams,S. Sirotkin,41.679
+2018,Germany,1,Ferrari,S. Vettel,15.279
+2018,Germany,1,Red Bull,M. Verstappen,15.355
+2018,Germany,1,Mercedes,V. Bottas,15.419
+2018,Germany,1,Ferrari,K. Raikkonen,15.461
+2018,Germany,1,Haas,K. Magnussen,15.506
+2018,Germany,1,Renault,N. Hulkenberg,15.538
+2018,Germany,1,Haas,R. Grosjean,15.558
+2018,Germany,1,Racing Point,S. Perez,15.602
+2018,Germany,1,McLaren,F. Alonso,15.699
+2018,Germany,1,Sauber,C. Leclerc,15.747
+2018,Germany,1,Racing Point,E. Ocon,15.774
+2018,Germany,1,Sauber,M. Ericsson,15.791
+2018,Germany,1,Williams,S. Sirotkin,15.809
+2018,Germany,1,Mercedes,L. Hamilton,15.821
+2018,Germany,1,Red Bull,D. Ricciardo,15.827
+2018,Germany,1,Toro Rosso,P. Gasly,15.907
+2018,Germany,1,McLaren,S. Vandoorne,15.933
+2018,Germany,1,Williams,L. Stroll,15.956
+2018,Germany,1,Toro Rosso,B. Hartley,16.055
+2018,Germany,2,Ferrari,S. Vettel,34.159
+2018,Germany,2,Ferrari,K. Raikkonen,34.289
+2018,Germany,2,Mercedes,V. Bottas,34.472
+2018,Germany,2,Sauber,C. Leclerc,34.62
+2018,Germany,2,Haas,K. Magnussen,34.71
+2018,Germany,2,Red Bull,M. Verstappen,34.733
+2018,Germany,2,Racing Point,S. Perez,34.744
+2018,Germany,2,Renault,N. Hulkenberg,34.828
+2018,Germany,2,Haas,R. Grosjean,34.829
+2018,Germany,2,Mercedes,L. Hamilton,34.947
+2018,Germany,2,Sauber,M. Ericsson,35.105
+2018,Germany,2,Racing Point,E. Ocon,35.122
+2018,Germany,2,Toro Rosso,B. Hartley,35.228
+2018,Germany,2,Toro Rosso,P. Gasly,35.239
+2018,Germany,2,Red Bull,D. Ricciardo,35.268
+2018,Germany,2,Williams,S. Sirotkin,35.324
+2018,Germany,2,McLaren,F. Alonso,35.331
+2018,Germany,2,Williams,L. Stroll,35.451
+2018,Germany,2,McLaren,S. Vandoorne,35.548
+2018,Germany,3,Mercedes,V. Bottas,21.525
+2018,Germany,3,Ferrari,K. Raikkonen,21.728
+2018,Germany,3,Red Bull,M. Verstappen,21.734
+2018,Germany,3,Ferrari,S. Vettel,21.743
+2018,Germany,3,Haas,K. Magnussen,21.984
+2018,Germany,3,Haas,R. Grosjean,22.098
+2018,Germany,3,Renault,N. Hulkenberg,22.104
+2018,Germany,3,Mercedes,L. Hamilton,22.174
+2018,Germany,3,Red Bull,D. Ricciardo,22.221
+2018,Germany,3,Sauber,C. Leclerc,22.229
+2018,Germany,3,Racing Point,S. Perez,22.318
+2018,Germany,3,McLaren,F. Alonso,22.491
+2018,Germany,3,Williams,S. Sirotkin,22.516
+2018,Germany,3,Sauber,M. Ericsson,22.584
+2018,Germany,3,Toro Rosso,P. Gasly,22.603
+2018,Germany,3,Racing Point,E. Ocon,22.747
+2018,Germany,3,Toro Rosso,B. Hartley,22.762
+2018,Germany,3,McLaren,S. Vandoorne,22.78
+2018,Germany,3,Williams,L. Stroll,22.799
+2018,Great-Britain,1,Ferrari,K. Raikkonen,27.512
+2018,Great-Britain,1,Ferrari,S. Vettel,27.516
+2018,Great-Britain,1,Mercedes,L. Hamilton,27.52
+2018,Great-Britain,1,Mercedes,V. Bottas,27.572
+2018,Great-Britain,1,Red Bull,M. Verstappen,27.846
+2018,Great-Britain,1,Red Bull,D. Ricciardo,27.95
+2018,Great-Britain,1,Racing Point,S. Perez,27.953
+2018,Great-Britain,1,Haas,K. Magnussen,27.954
+2018,Great-Britain,1,Racing Point,E. Ocon,27.987
+2018,Great-Britain,1,Haas,R. Grosjean,28.015
+2018,Great-Britain,1,Sauber,C. Leclerc,28.03
+2018,Great-Britain,1,Renault,N. Hulkenberg,28.158
+2018,Great-Britain,1,Sauber,M. Ericsson,28.217
+2018,Great-Britain,1,Williams,S. Sirotkin,28.282
+2018,Great-Britain,1,McLaren,F. Alonso,28.319
+2018,Great-Britain,1,Toro Rosso,P. Gasly,28.355
+2018,Great-Britain,1,Williams,L. Stroll,28.492
+2018,Great-Britain,1,McLaren,S. Vandoorne,28.501
+2018,Great-Britain,2,Mercedes,L. Hamilton,34.708
+2018,Great-Britain,2,Ferrari,S. Vettel,34.752
+2018,Great-Britain,2,Mercedes,V. Bottas,34.81
+2018,Great-Britain,2,Ferrari,K. Raikkonen,34.911
+2018,Great-Britain,2,Red Bull,M. Verstappen,35.029
+2018,Great-Britain,2,Red Bull,D. Ricciardo,35.214
+2018,Great-Britain,2,Haas,K. Magnussen,35.314
+2018,Great-Britain,2,Haas,R. Grosjean,35.363
+2018,Great-Britain,2,Sauber,C. Leclerc,35.45
+2018,Great-Britain,2,Sauber,M. Ericsson,35.509
+2018,Great-Britain,2,McLaren,F. Alonso,35.634
+2018,Great-Britain,2,Renault,N. Hulkenberg,35.673
+2018,Great-Britain,2,Racing Point,E. Ocon,35.716
+2018,Great-Britain,2,Toro Rosso,P. Gasly,35.78
+2018,Great-Britain,2,Racing Point,S. Perez,35.803
+2018,Great-Britain,2,McLaren,S. Vandoorne,36.084
+2018,Great-Britain,2,Williams,S. Sirotkin,36.206
+2018,Great-Britain,2,Williams,L. Stroll,54.9
+2018,Great-Britain,3,Ferrari,K. Raikkonen,23.567
+2018,Great-Britain,3,Ferrari,S. Vettel,23.636
+2018,Great-Britain,3,Mercedes,L. Hamilton,23.643
+2018,Great-Britain,3,Red Bull,M. Verstappen,23.656
+2018,Great-Britain,3,Mercedes,V. Bottas,23.698
+2018,Great-Britain,3,Red Bull,D. Ricciardo,23.805
+2018,Great-Britain,3,Haas,K. Magnussen,23.976
+2018,Great-Britain,3,Haas,R. Grosjean,23.982
+2018,Great-Britain,3,Renault,N. Hulkenberg,24.013
+2018,Great-Britain,3,McLaren,F. Alonso,24.104
+2018,Great-Britain,3,Racing Point,E. Ocon,24.105
+2018,Great-Britain,3,Sauber,C. Leclerc,24.134
+2018,Great-Britain,3,Toro Rosso,P. Gasly,24.152
+2018,Great-Britain,3,Racing Point,S. Perez,24.172
+2018,Great-Britain,3,McLaren,S. Vandoorne,24.331
+2018,Great-Britain,3,Sauber,M. Ericsson,24.413
+2018,Great-Britain,3,Williams,S. Sirotkin,24.658
+2018,Great-Britain,3,Williams,L. Stroll,34.867
+2018,Hungary,1,Ferrari,S. Vettel,27.635
+2018,Hungary,1,Mercedes,V. Bottas,27.998
+2018,Hungary,1,Red Bull,M. Verstappen,28.067
+2018,Hungary,1,Haas,K. Magnussen,28.125
+2018,Hungary,1,Mercedes,L. Hamilton,28.175
+2018,Hungary,1,Ferrari,K. Raikkonen,28.201
+2018,Hungary,1,Haas,R. Grosjean,28.257
+2018,Hungary,1,Renault,N. Hulkenberg,28.327
+2018,Hungary,1,Williams,S. Sirotkin,28.432
+2018,Hungary,1,Sauber,C. Leclerc,28.441
+2018,Hungary,1,Williams,L. Stroll,28.454
+2018,Hungary,1,Racing Point,E. Ocon,28.462
+2018,Hungary,1,Sauber,M. Ericsson,28.476
+2018,Hungary,1,McLaren,S. Vandoorne,28.483
+2018,Hungary,1,Toro Rosso,B. Hartley,28.484
+2018,Hungary,1,Toro Rosso,P. Gasly,28.552
+2018,Hungary,1,McLaren,F. Alonso,28.658
+2018,Hungary,1,Racing Point,S. Perez,28.678
+2018,Hungary,1,Red Bull,D. Ricciardo,28.779
+2018,Hungary,2,Red Bull,M. Verstappen,27.486
+2018,Hungary,2,Ferrari,S. Vettel,27.569
+2018,Hungary,2,Mercedes,L. Hamilton,27.613
+2018,Hungary,2,Mercedes,V. Bottas,27.665
+2018,Hungary,2,Haas,R. Grosjean,27.713
+2018,Hungary,2,McLaren,F. Alonso,27.719
+2018,Hungary,2,Ferrari,K. Raikkonen,27.751
+2018,Hungary,2,Red Bull,D. Ricciardo,27.914
+2018,Hungary,2,Renault,N. Hulkenberg,27.94
+2018,Hungary,2,Toro Rosso,B. Hartley,28.005
+2018,Hungary,2,Williams,L. Stroll,28.079
+2018,Hungary,2,Sauber,C. Leclerc,28.143
+2018,Hungary,2,Sauber,M. Ericsson,28.144
+2018,Hungary,2,Haas,K. Magnussen,28.229
+2018,Hungary,2,Toro Rosso,P. Gasly,28.29
+2018,Hungary,2,Racing Point,S. Perez,28.367
+2018,Hungary,2,McLaren,S. Vandoorne,28.496
+2018,Hungary,2,Williams,S. Sirotkin,28.594
+2018,Hungary,2,Racing Point,E. Ocon,28.621
+2018,Hungary,3,Ferrari,K. Raikkonen,21.304
+2018,Hungary,3,Red Bull,M. Verstappen,21.387
+2018,Hungary,3,Mercedes,L. Hamilton,21.436
+2018,Hungary,3,Mercedes,V. Bottas,21.46
+2018,Hungary,3,Ferrari,S. Vettel,21.462
+2018,Hungary,3,Renault,N. Hulkenberg,21.638
+2018,Hungary,3,Toro Rosso,P. Gasly,21.661
+2018,Hungary,3,Red Bull,D. Ricciardo,21.782
+2018,Hungary,3,Toro Rosso,B. Hartley,21.782
+2018,Hungary,3,McLaren,S. Vandoorne,21.803
+2018,Hungary,3,McLaren,F. Alonso,21.831
+2018,Hungary,3,Haas,K. Magnussen,21.887
+2018,Hungary,3,Haas,R. Grosjean,21.905
+2018,Hungary,3,Sauber,C. Leclerc,21.931
+2018,Hungary,3,Sauber,M. Ericsson,21.934
+2018,Hungary,3,Williams,L. Stroll,22.027
+2018,Hungary,3,Racing Point,E. Ocon,22.059
+2018,Hungary,3,Racing Point,S. Perez,22.113
+2018,Hungary,3,Williams,S. Sirotkin,22.264
+2018,Italy,1,Mercedes,L. Hamilton,26.479
+2018,Italy,1,Ferrari,K. Raikkonen,26.519
+2018,Italy,1,Ferrari,S. Vettel,26.604
+2018,Italy,1,Mercedes,V. Bottas,26.803
+2018,Italy,1,Red Bull,M. Verstappen,26.858
+2018,Italy,1,Racing Point,E. Ocon,26.868
+2018,Italy,1,Haas,R. Grosjean,26.996
+2018,Italy,1,Toro Rosso,P. Gasly,27.097
+2018,Italy,1,Williams,L. Stroll,27.119
+2018,Italy,1,Williams,S. Sirotkin,27.193
+2018,Italy,1,Red Bull,D. Ricciardo,27.194
+2018,Italy,1,McLaren,F. Alonso,27.203
+2018,Italy,1,Racing Point,S. Perez,27.215
+2018,Italy,1,Haas,K. Magnussen,27.267
+2018,Italy,1,Renault,N. Hulkenberg,27.271
+2018,Italy,1,McLaren,S. Vandoorne,27.313
+2018,Italy,1,Toro Rosso,B. Hartley,27.344
+2018,Italy,1,Sauber,C. Leclerc,27.399
+2018,Italy,1,Sauber,M. Ericsson,27.425
+2018,Italy,2,Mercedes,V. Bottas,26.52
+2018,Italy,2,Mercedes,L. Hamilton,26.54
+2018,Italy,2,Ferrari,S. Vettel,26.548
+2018,Italy,2,Ferrari,K. Raikkonen,26.594
+2018,Italy,2,Red Bull,M. Verstappen,26.854
+2018,Italy,2,Red Bull,D. Ricciardo,27.152
+2018,Italy,2,Williams,L. Stroll,27.231
+2018,Italy,2,Toro Rosso,P. Gasly,27.241
+2018,Italy,2,Racing Point,E. Ocon,27.302
+2018,Italy,2,Haas,R. Grosjean,27.304
+2018,Italy,2,Williams,S. Sirotkin,27.369
+2018,Italy,2,Haas,K. Magnussen,27.382
+2018,Italy,2,Sauber,C. Leclerc,27.407
+2018,Italy,2,Renault,N. Hulkenberg,27.416
+2018,Italy,2,Toro Rosso,B. Hartley,27.478
+2018,Italy,2,Racing Point,S. Perez,27.479
+2018,Italy,2,Sauber,M. Ericsson,27.514
+2018,Italy,2,McLaren,F. Alonso,27.589
+2018,Italy,2,McLaren,S. Vandoorne,27.597
+2018,Italy,3,Ferrari,K. Raikkonen,26.006
+2018,Italy,3,Ferrari,S. Vettel,26.128
+2018,Italy,3,Mercedes,L. Hamilton,26.19
+2018,Italy,3,Mercedes,V. Bottas,26.306
+2018,Italy,3,Red Bull,M. Verstappen,26.609
+2018,Italy,3,Haas,R. Grosjean,26.636
+2018,Italy,3,Racing Point,E. Ocon,26.886
+2018,Italy,3,Red Bull,D. Ricciardo,26.934
+2018,Italy,3,Haas,K. Magnussen,26.988
+2018,Italy,3,Toro Rosso,P. Gasly,27.012
+2018,Italy,3,McLaren,F. Alonso,27.058
+2018,Italy,3,Sauber,C. Leclerc,27.083
+2018,Italy,3,Williams,S. Sirotkin,27.09
+2018,Italy,3,Racing Point,S. Perez,27.096
+2018,Italy,3,Sauber,M. Ericsson,27.109
+2018,Italy,3,Toro Rosso,B. Hartley,27.112
+2018,Italy,3,Renault,N. Hulkenberg,27.114
+2018,Italy,3,McLaren,S. Vandoorne,27.131
+2018,Italy,3,Williams,L. Stroll,27.131
+2018,Japan,1,Mercedes,V. Bottas,30.895
+2018,Japan,1,Mercedes,L. Hamilton,30.913
+2018,Japan,1,Ferrari,S. Vettel,31.268
+2018,Japan,1,Red Bull,M. Verstappen,31.361
+2018,Japan,1,Haas,R. Grosjean,31.418
+2018,Japan,1,Ferrari,K. Raikkonen,31.46
+2018,Japan,1,Racing Point,S. Perez,31.671
+2018,Japan,1,Toro Rosso,P. Gasly,31.703
+2018,Japan,1,Haas,K. Magnussen,31.757
+2018,Japan,1,Racing Point,E. Ocon,31.794
+2018,Japan,1,Sauber,C. Leclerc,31.803
+2018,Japan,1,Toro Rosso,B. Hartley,31.818
+2018,Japan,1,Williams,L. Stroll,31.936
+2018,Japan,1,Red Bull,D. Ricciardo,31.963
+2018,Japan,1,Williams,S. Sirotkin,31.963
+2018,Japan,1,McLaren,F. Alonso,32.065
+2018,Japan,1,Renault,N. Hulkenberg,32.106
+2018,Japan,1,McLaren,S. Vandoorne,32.204
+2018,Japan,1,Sauber,M. Ericsson,32.521
+2018,Japan,2,Mercedes,L. Hamilton,39.588
+2018,Japan,2,Ferrari,S. Vettel,39.681
+2018,Japan,2,Mercedes,V. Bottas,39.708
+2018,Japan,2,Ferrari,K. Raikkonen,39.882
+2018,Japan,2,Red Bull,M. Verstappen,40.04
+2018,Japan,2,Red Bull,D. Ricciardo,40.195
+2018,Japan,2,Sauber,C. Leclerc,40.215
+2018,Japan,2,Racing Point,E. Ocon,40.258
+2018,Japan,2,Racing Point,S. Perez,40.367
+2018,Japan,2,Toro Rosso,B. Hartley,40.401
+2018,Japan,2,Toro Rosso,P. Gasly,40.442
+2018,Japan,2,Renault,N. Hulkenberg,40.443
+2018,Japan,2,Haas,R. Grosjean,40.552
+2018,Japan,2,Williams,S. Sirotkin,40.702
+2018,Japan,2,Williams,L. Stroll,40.71
+2018,Japan,2,Haas,K. Magnussen,40.743
+2018,Japan,2,McLaren,F. Alonso,40.808
+2018,Japan,2,McLaren,S. Vandoorne,40.914
+2018,Japan,2,Sauber,M. Ericsson,41.05
+2018,Japan,3,Ferrari,K. Raikkonen,17.199
+2018,Japan,3,Mercedes,L. Hamilton,17.253
+2018,Japan,3,Mercedes,V. Bottas,17.287
+2018,Japan,3,Ferrari,S. Vettel,17.33
+2018,Japan,3,Red Bull,M. Verstappen,17.441
+2018,Japan,3,Racing Point,E. Ocon,17.466
+2018,Japan,3,Haas,R. Grosjean,17.501
+2018,Japan,3,Racing Point,S. Perez,17.529
+2018,Japan,3,Toro Rosso,B. Hartley,17.573
+2018,Japan,3,Haas,K. Magnussen,17.577
+2018,Japan,3,Sauber,C. Leclerc,17.578
+2018,Japan,3,Toro Rosso,P. Gasly,17.625
+2018,Japan,3,Sauber,M. Ericsson,17.642
+2018,Japan,3,Red Bull,D. Ricciardo,17.648
+2018,Japan,3,Renault,N. Hulkenberg,17.671
+2018,Japan,3,Williams,L. Stroll,17.671
+2018,Japan,3,McLaren,F. Alonso,17.7
+2018,Japan,3,Williams,S. Sirotkin,17.707
+2018,Japan,3,McLaren,S. Vandoorne,17.83
+2018,Mexico,1,Ferrari,S. Vettel,24.556
+2018,Mexico,1,Ferrari,K. Raikkonen,24.611
+2018,Mexico,1,Mercedes,L. Hamilton,24.729
+2018,Mexico,1,Mercedes,V. Bottas,24.769
+2018,Mexico,1,Haas,R. Grosjean,24.959
+2018,Mexico,1,Red Bull,D. Ricciardo,24.984
+2018,Mexico,1,Sauber,C. Leclerc,25.028
+2018,Mexico,1,Haas,K. Magnussen,25.046
+2018,Mexico,1,Racing Point,E. Ocon,25.184
+2018,Mexico,1,Red Bull,M. Verstappen,25.213
+2018,Mexico,1,Renault,N. Hulkenberg,25.274
+2018,Mexico,1,McLaren,F. Alonso,25.303
+2018,Mexico,1,Racing Point,S. Perez,25.348
+2018,Mexico,1,Sauber,M. Ericsson,25.404
+2018,Mexico,1,Williams,L. Stroll,25.417
+2018,Mexico,1,Williams,S. Sirotkin,25.459
+2018,Mexico,1,McLaren,S. Vandoorne,25.479
+2018,Mexico,1,Toro Rosso,P. Gasly,25.641
+2018,Mexico,1,Toro Rosso,B. Hartley,25.705
+2018,Mexico,2,Mercedes,L. Hamilton,36.845
+2018,Mexico,2,Ferrari,K. Raikkonen,36.869
+2018,Mexico,2,Ferrari,S. Vettel,36.886
+2018,Mexico,2,Mercedes,V. Bottas,36.986
+2018,Mexico,2,Racing Point,E. Ocon,37.629
+2018,Mexico,2,Renault,N. Hulkenberg,37.695
+2018,Mexico,2,Red Bull,D. Ricciardo,37.705
+2018,Mexico,2,Toro Rosso,P. Gasly,37.707
+2018,Mexico,2,Racing Point,S. Perez,37.718
+2018,Mexico,2,Sauber,C. Leclerc,37.73
+2018,Mexico,2,Red Bull,M. Verstappen,37.806
+2018,Mexico,2,Haas,R. Grosjean,37.855
+2018,Mexico,2,Haas,K. Magnussen,37.873
+2018,Mexico,2,Toro Rosso,B. Hartley,37.96
+2018,Mexico,2,Williams,S. Sirotkin,38.131
+2018,Mexico,2,Williams,L. Stroll,38.162
+2018,Mexico,2,McLaren,F. Alonso,38.284
+2018,Mexico,2,McLaren,S. Vandoorne,38.313
+2018,Mexico,2,Sauber,M. Ericsson,38.34
+2018,Mexico,3,Mercedes,L. Hamilton,30.663
+2018,Mexico,3,Red Bull,D. Ricciardo,30.797
+2018,Mexico,3,Ferrari,K. Raikkonen,30.827
+2018,Mexico,3,Mercedes,V. Bottas,30.843
+2018,Mexico,3,Ferrari,S. Vettel,30.856
+2018,Mexico,3,Renault,N. Hulkenberg,31.246
+2018,Mexico,3,Racing Point,E. Ocon,31.332
+2018,Mexico,3,Sauber,C. Leclerc,31.371
+2018,Mexico,3,Haas,R. Grosjean,31.387
+2018,Mexico,3,Racing Point,S. Perez,31.45
+2018,Mexico,3,Toro Rosso,P. Gasly,31.473
+2018,Mexico,3,Red Bull,M. Verstappen,31.489
+2018,Mexico,3,Toro Rosso,B. Hartley,31.502
+2018,Mexico,3,Haas,K. Magnussen,31.632
+2018,Mexico,3,McLaren,F. Alonso,31.707
+2018,Mexico,3,Williams,S. Sirotkin,31.772
+2018,Mexico,3,Sauber,M. Ericsson,31.792
+2018,Mexico,3,Williams,L. Stroll,31.901
+2018,Mexico,3,McLaren,S. Vandoorne,31.943
+2018,Monaco,1,Mercedes,L. Hamilton,18.594
+2018,Monaco,1,Red Bull,D. Ricciardo,18.638
+2018,Monaco,1,Ferrari,S. Vettel,18.674
+2018,Monaco,1,Mercedes,V. Bottas,18.716
+2018,Monaco,1,Ferrari,K. Raikkonen,18.741
+2018,Monaco,1,McLaren,F. Alonso,18.78
+2018,Monaco,1,Toro Rosso,P. Gasly,18.908
+2018,Monaco,1,Racing Point,S. Perez,18.988
+2018,Monaco,1,McLaren,S. Vandoorne,19.008
+2018,Monaco,1,Williams,S. Sirotkin,19.039
+2018,Monaco,1,Renault,N. Hulkenberg,19.049
+2018,Monaco,1,Racing Point,E. Ocon,19.063
+2018,Monaco,1,Williams,L. Stroll,19.106
+2018,Monaco,1,Sauber,C. Leclerc,19.113
+2018,Monaco,1,Haas,R. Grosjean,19.16
+2018,Monaco,1,Toro Rosso,B. Hartley,19.25
+2018,Monaco,1,Sauber,M. Ericsson,19.346
+2018,Monaco,1,Haas,K. Magnussen,19.362
+2018,Monaco,2,Red Bull,D. Ricciardo,33.392
+2018,Monaco,2,Ferrari,S. Vettel,33.443
+2018,Monaco,2,Mercedes,L. Hamilton,33.446
+2018,Monaco,2,Ferrari,K. Raikkonen,33.508
+2018,Monaco,2,Mercedes,V. Bottas,33.702
+2018,Monaco,2,Toro Rosso,P. Gasly,33.789
+2018,Monaco,2,Racing Point,E. Ocon,33.795
+2018,Monaco,2,Racing Point,S. Perez,33.906
+2018,Monaco,2,McLaren,F. Alonso,33.936
+2018,Monaco,2,Renault,N. Hulkenberg,33.941
+2018,Monaco,2,Haas,R. Grosjean,34.035
+2018,Monaco,2,Sauber,C. Leclerc,34.105
+2018,Monaco,2,McLaren,S. Vandoorne,34.129
+2018,Monaco,2,Williams,S. Sirotkin,34.183
+2018,Monaco,2,Sauber,M. Ericsson,34.324
+2018,Monaco,2,Toro Rosso,B. Hartley,34.343
+2018,Monaco,2,Haas,K. Magnussen,34.441
+2018,Monaco,2,Williams,L. Stroll,34.464
+2018,Monaco,3,Red Bull,D. Ricciardo,18.779
+2018,Monaco,3,Ferrari,S. Vettel,18.922
+2018,Monaco,3,Ferrari,K. Raikkonen,18.987
+2018,Monaco,3,Mercedes,V. Bottas,18.994
+2018,Monaco,3,Mercedes,L. Hamilton,19.061
+2018,Monaco,3,McLaren,S. Vandoorne,19.141
+2018,Monaco,3,Renault,N. Hulkenberg,19.17
+2018,Monaco,3,McLaren,F. Alonso,19.198
+2018,Monaco,3,Racing Point,E. Ocon,19.203
+2018,Monaco,3,Racing Point,S. Perez,19.226
+2018,Monaco,3,Williams,S. Sirotkin,19.229
+2018,Monaco,3,Toro Rosso,P. Gasly,19.259
+2018,Monaco,3,Sauber,C. Leclerc,19.34
+2018,Monaco,3,Haas,R. Grosjean,19.373
+2018,Monaco,3,Haas,K. Magnussen,19.491
+2018,Monaco,3,Toro Rosso,B. Hartley,19.532
+2018,Monaco,3,Sauber,M. Ericsson,19.595
+2018,Monaco,3,Williams,L. Stroll,19.631
+2018,Russia,1,Mercedes,L. Hamilton,33.094
+2018,Russia,1,Ferrari,K. Raikkonen,33.222
+2018,Russia,1,Mercedes,V. Bottas,33.321
+2018,Russia,1,Ferrari,S. Vettel,33.38
+2018,Russia,1,Sauber,C. Leclerc,33.716
+2018,Russia,1,Racing Point,E. Ocon,33.804
+2018,Russia,1,Racing Point,S. Perez,33.84
+2018,Russia,1,Haas,K. Magnussen,33.843
+2018,Russia,1,Sauber,M. Ericsson,33.867
+2018,Russia,1,Haas,R. Grosjean,33.966
+2018,Russia,1,Williams,S. Sirotkin,34.02
+2018,Russia,1,Red Bull,M. Verstappen,34.027
+2018,Russia,1,Red Bull,D. Ricciardo,34.104
+2018,Russia,1,Williams,L. Stroll,34.129
+2018,Russia,1,Renault,N. Hulkenberg,34.341
+2018,Russia,1,Toro Rosso,P. Gasly,34.376
+2018,Russia,1,McLaren,S. Vandoorne,34.426
+2018,Russia,1,Toro Rosso,B. Hartley,34.502
+2018,Russia,1,McLaren,F. Alonso,34.846
+2018,Russia,2,Mercedes,V. Bottas,31.292
+2018,Russia,2,Ferrari,S. Vettel,31.419
+2018,Russia,2,Mercedes,L. Hamilton,31.438
+2018,Russia,2,Ferrari,K. Raikkonen,31.54
+2018,Russia,2,Red Bull,D. Ricciardo,32.007
+2018,Russia,2,Haas,K. Magnussen,32.065
+2018,Russia,2,Red Bull,M. Verstappen,32.066
+2018,Russia,2,Racing Point,E. Ocon,32.181
+2018,Russia,2,Sauber,C. Leclerc,32.268
+2018,Russia,2,Racing Point,S. Perez,32.282
+2018,Russia,2,Haas,R. Grosjean,32.288
+2018,Russia,2,Sauber,M. Ericsson,32.324
+2018,Russia,2,Toro Rosso,P. Gasly,32.647
+2018,Russia,2,Renault,N. Hulkenberg,32.746
+2018,Russia,2,Toro Rosso,B. Hartley,32.778
+2018,Russia,2,McLaren,F. Alonso,32.815
+2018,Russia,2,Williams,L. Stroll,33.036
+2018,Russia,2,Williams,S. Sirotkin,33.04
+2018,Russia,2,McLaren,S. Vandoorne,33.349
+2018,Russia,3,Mercedes,V. Bottas,26.774
+2018,Russia,3,Mercedes,L. Hamilton,26.798
+2018,Russia,3,Red Bull,M. Verstappen,26.864
+2018,Russia,3,Ferrari,S. Vettel,27.081
+2018,Russia,3,Red Bull,D. Ricciardo,27.084
+2018,Russia,3,Ferrari,K. Raikkonen,27.182
+2018,Russia,3,Haas,R. Grosjean,27.197
+2018,Russia,3,Haas,K. Magnussen,27.233
+2018,Russia,3,Racing Point,E. Ocon,27.285
+2018,Russia,3,Racing Point,S. Perez,27.327
+2018,Russia,3,Sauber,C. Leclerc,27.339
+2018,Russia,3,Toro Rosso,P. Gasly,27.349
+2018,Russia,3,Sauber,M. Ericsson,27.524
+2018,Russia,3,Renault,N. Hulkenberg,27.544
+2018,Russia,3,Toro Rosso,B. Hartley,27.571
+2018,Russia,3,McLaren,F. Alonso,27.843
+2018,Russia,3,McLaren,S. Vandoorne,28.139
+2018,Russia,3,Williams,S. Sirotkin,28.256
+2018,Russia,3,Williams,L. Stroll,29.003
+2018,Singapore,1,Ferrari,S. Vettel,26.207
+2018,Singapore,1,Mercedes,L. Hamilton,26.263
+2018,Singapore,1,Ferrari,K. Raikkonen,26.296
+2018,Singapore,1,Red Bull,M. Verstappen,26.415
+2018,Singapore,1,Mercedes,V. Bottas,26.461
+2018,Singapore,1,Red Bull,D. Ricciardo,26.536
+2018,Singapore,1,Haas,R. Grosjean,26.772
+2018,Singapore,1,Racing Point,S. Perez,26.806
+2018,Singapore,1,McLaren,F. Alonso,26.84
+2018,Singapore,1,Racing Point,E. Ocon,26.853
+2018,Singapore,1,Sauber,C. Leclerc,26.94
+2018,Singapore,1,Sauber,M. Ericsson,26.969
+2018,Singapore,1,Renault,N. Hulkenberg,26.994
+2018,Singapore,1,McLaren,S. Vandoorne,27.119
+2018,Singapore,1,Toro Rosso,P. Gasly,27.121
+2018,Singapore,1,Haas,K. Magnussen,27.136
+2018,Singapore,1,Toro Rosso,B. Hartley,27.324
+2018,Singapore,1,Williams,L. Stroll,27.364
+2018,Singapore,1,Williams,S. Sirotkin,27.455
+2018,Singapore,2,Red Bull,M. Verstappen,36.857
+2018,Singapore,2,Mercedes,L. Hamilton,36.967
+2018,Singapore,2,Mercedes,V. Bottas,37.284
+2018,Singapore,2,Ferrari,S. Vettel,37.315
+2018,Singapore,2,Ferrari,K. Raikkonen,37.344
+2018,Singapore,2,Red Bull,D. Ricciardo,37.453
+2018,Singapore,2,Racing Point,S. Perez,37.724
+2018,Singapore,2,Haas,R. Grosjean,37.737
+2018,Singapore,2,Racing Point,E. Ocon,37.867
+2018,Singapore,2,Sauber,C. Leclerc,37.873
+2018,Singapore,2,Renault,N. Hulkenberg,37.882
+2018,Singapore,2,McLaren,F. Alonso,38.065
+2018,Singapore,2,Sauber,M. Ericsson,38.141
+2018,Singapore,2,Toro Rosso,P. Gasly,38.28
+2018,Singapore,2,Haas,K. Magnussen,38.369
+2018,Singapore,2,Toro Rosso,B. Hartley,38.4
+2018,Singapore,2,McLaren,S. Vandoorne,38.648
+2018,Singapore,2,Williams,L. Stroll,39.026
+2018,Singapore,2,Williams,S. Sirotkin,39.154
+2018,Singapore,3,Mercedes,L. Hamilton,32.785
+2018,Singapore,3,Red Bull,M. Verstappen,32.91
+2018,Singapore,3,Mercedes,V. Bottas,32.95
+2018,Singapore,3,Red Bull,D. Ricciardo,33.007
+2018,Singapore,3,Ferrari,S. Vettel,33.045
+2018,Singapore,3,Ferrari,K. Raikkonen,33.139
+2018,Singapore,3,Racing Point,S. Perez,33.455
+2018,Singapore,3,Renault,N. Hulkenberg,33.501
+2018,Singapore,3,Racing Point,E. Ocon,33.634
+2018,Singapore,3,Haas,R. Grosjean,33.693
+2018,Singapore,3,McLaren,F. Alonso,33.722
+2018,Singapore,3,Sauber,C. Leclerc,33.855
+2018,Singapore,3,McLaren,S. Vandoorne,34.04
+2018,Singapore,3,Toro Rosso,P. Gasly,34.049
+2018,Singapore,3,Haas,K. Magnussen,34.059
+2018,Singapore,3,Toro Rosso,B. Hartley,34.085
+2018,Singapore,3,Sauber,M. Ericsson,34.148
+2018,Singapore,3,Williams,S. Sirotkin,34.531
+2018,Singapore,3,Williams,L. Stroll,34.944
+2018,Spain,1,Mercedes,L. Hamilton,21.525
+2018,Spain,1,Mercedes,V. Bottas,21.528
+2018,Spain,1,Ferrari,S. Vettel,21.551
+2018,Spain,1,Ferrari,K. Raikkonen,21.697
+2018,Spain,1,Red Bull,D. Ricciardo,21.819
+2018,Spain,1,Haas,K. Magnussen,21.842
+2018,Spain,1,Haas,R. Grosjean,21.867
+2018,Spain,1,Red Bull,M. Verstappen,21.9
+2018,Spain,1,Racing Point,E. Ocon,22.025
+2018,Spain,1,Racing Point,S. Perez,22.027
+2018,Spain,1,McLaren,F. Alonso,22.048
+2018,Spain,1,Sauber,C. Leclerc,22.078
+2018,Spain,1,Toro Rosso,P. Gasly,22.119
+2018,Spain,1,Williams,S. Sirotkin,22.19
+2018,Spain,1,McLaren,S. Vandoorne,22.196
+2018,Spain,1,Williams,L. Stroll,22.219
+2018,Spain,1,Sauber,M. Ericsson,22.279
+2018,Spain,1,Renault,N. Hulkenberg,22.412
+2018,Spain,2,Mercedes,L. Hamilton,28.316
+2018,Spain,2,Mercedes,V. Bottas,28.366
+2018,Spain,2,Ferrari,S. Vettel,28.555
+2018,Spain,2,Ferrari,K. Raikkonen,28.561
+2018,Spain,2,Red Bull,M. Verstappen,28.609
+2018,Spain,2,Red Bull,D. Ricciardo,28.687
+2018,Spain,2,Haas,K. Magnussen,28.894
+2018,Spain,2,McLaren,F. Alonso,28.913
+2018,Spain,2,Haas,R. Grosjean,29.011
+2018,Spain,2,McLaren,S. Vandoorne,29.199
+2018,Spain,2,Toro Rosso,P. Gasly,29.289
+2018,Spain,2,Sauber,C. Leclerc,29.358
+2018,Spain,2,Renault,N. Hulkenberg,29.544
+2018,Spain,2,Racing Point,E. Ocon,29.56
+2018,Spain,2,Racing Point,S. Perez,29.564
+2018,Spain,2,Sauber,M. Ericsson,29.75
+2018,Spain,2,Williams,S. Sirotkin,29.779
+2018,Spain,2,Williams,L. Stroll,30.066
+2018,Spain,3,Red Bull,D. Ricciardo,26.159
+2018,Spain,3,Ferrari,S. Vettel,26.199
+2018,Spain,3,Red Bull,M. Verstappen,26.307
+2018,Spain,3,Mercedes,V. Bottas,26.319
+2018,Spain,3,Mercedes,L. Hamilton,26.326
+2018,Spain,3,Ferrari,K. Raikkonen,26.34
+2018,Spain,3,McLaren,F. Alonso,26.689
+2018,Spain,3,Haas,K. Magnussen,26.771
+2018,Spain,3,Haas,R. Grosjean,26.81
+2018,Spain,3,Toro Rosso,P. Gasly,26.843
+2018,Spain,3,McLaren,S. Vandoorne,26.858
+2018,Spain,3,Renault,N. Hulkenberg,26.967
+2018,Spain,3,Racing Point,E. Ocon,27.028
+2018,Spain,3,Racing Point,S. Perez,27.106
+2018,Spain,3,Sauber,C. Leclerc,27.157
+2018,Spain,3,Sauber,M. Ericsson,27.36
+2018,Spain,3,Williams,S. Sirotkin,27.544
+2018,Spain,3,Williams,L. Stroll,27.576
+2018,United-States,1,Ferrari,S. Vettel,26.687
+2018,United-States,1,Ferrari,K. Raikkonen,26.793
+2018,United-States,1,Mercedes,L. Hamilton,26.867
+2018,United-States,1,Red Bull,M. Verstappen,26.929
+2018,United-States,1,Mercedes,V. Bottas,26.995
+2018,United-States,1,Sauber,C. Leclerc,27.008
+2018,United-States,1,Sauber,M. Ericsson,27.121
+2018,United-States,1,Red Bull,D. Ricciardo,27.131
+2018,United-States,1,Racing Point,S. Perez,27.141
+2018,United-States,1,Racing Point,E. Ocon,27.189
+2018,United-States,1,Haas,K. Magnussen,27.212
+2018,United-States,1,Haas,R. Grosjean,27.225
+2018,United-States,1,Renault,N. Hulkenberg,27.233
+2018,United-States,1,Williams,L. Stroll,27.26
+2018,United-States,1,Williams,S. Sirotkin,27.299
+2018,United-States,1,Toro Rosso,P. Gasly,27.383
+2018,United-States,1,Toro Rosso,B. Hartley,27.42
+2018,United-States,1,McLaren,S. Vandoorne,27.438
+2018,United-States,1,McLaren,F. Alonso,27.611
+2018,United-States,2,Red Bull,D. Ricciardo,28.353
+2018,United-States,2,Mercedes,V. Bottas,28.528
+2018,United-States,2,Red Bull,M. Verstappen,28.539
+2018,United-States,2,Mercedes,L. Hamilton,28.612
+2018,United-States,2,Ferrari,S. Vettel,28.756
+2018,United-States,2,Ferrari,K. Raikkonen,28.771
+2018,United-States,2,Renault,N. Hulkenberg,28.997
+2018,United-States,2,Sauber,C. Leclerc,29.103
+2018,United-States,2,McLaren,F. Alonso,29.274
+2018,United-States,2,Racing Point,E. Ocon,29.392
+2018,United-States,2,Sauber,M. Ericsson,29.434
+2018,United-States,2,Racing Point,S. Perez,29.459
+2018,United-States,2,McLaren,S. Vandoorne,29.528
+2018,United-States,2,Toro Rosso,B. Hartley,29.571
+2018,United-States,2,Haas,R. Grosjean,29.609
+2018,United-States,2,Toro Rosso,P. Gasly,29.725
+2018,United-States,2,Haas,K. Magnussen,29.857
+2018,United-States,2,Williams,S. Sirotkin,30.061
+2018,United-States,2,Williams,L. Stroll,30.082
+2018,United-States,3,Red Bull,D. Ricciardo,19.275
+2018,United-States,3,Red Bull,M. Verstappen,19.315
+2018,United-States,3,Mercedes,L. Hamilton,19.341
+2018,United-States,3,Mercedes,V. Bottas,19.52
+2018,United-States,3,Ferrari,S. Vettel,19.527
+2018,United-States,3,Renault,N. Hulkenberg,19.536
+2018,United-States,3,Racing Point,S. Perez,19.642
+2018,United-States,3,Racing Point,E. Ocon,19.669
+2018,United-States,3,Toro Rosso,B. Hartley,19.688
+2018,United-States,3,Ferrari,K. Raikkonen,19.692
+2018,United-States,3,Toro Rosso,P. Gasly,19.72
+2018,United-States,3,Sauber,M. Ericsson,19.808
+2018,United-States,3,Sauber,C. Leclerc,19.83
+2018,United-States,3,McLaren,F. Alonso,19.936
+2018,United-States,3,McLaren,S. Vandoorne,20
+2018,United-States,3,Haas,R. Grosjean,20.073
+2018,United-States,3,Williams,L. Stroll,20.206
+2018,United-States,3,Williams,S. Sirotkin,20.273
+2018,United-States,3,Haas,K. Magnussen,20.286
+2019,Abu-Dhabi,1,Ferrari,S. Vettel,16.782
+2019,Abu-Dhabi,1,Ferrari,C. Leclerc,16.804
+2019,Abu-Dhabi,1,Mercedes,L. Hamilton,16.903
+2019,Abu-Dhabi,1,Mercedes,V. Bottas,16.964
+2019,Abu-Dhabi,1,Red Bull,M. Verstappen,16.967
+2019,Abu-Dhabi,1,Red Bull,A. Albon,17.06
+2019,Abu-Dhabi,1,McLaren,C. Sainz,17.089
+2019,Abu-Dhabi,1,Renault,D. Ricciardo,17.103
+2019,Abu-Dhabi,1,McLaren,L. Norris,17.116
+2019,Abu-Dhabi,1,Renault,N. Hulkenberg,17.121
+2019,Abu-Dhabi,1,Racing Point,S. Perez,17.157
+2019,Abu-Dhabi,1,Haas,K. Magnussen,17.174
+2019,Abu-Dhabi,1,Racing Point,L. Stroll,17.184
+2019,Abu-Dhabi,1,Toro Rosso,P. Gasly,17.192
+2019,Abu-Dhabi,1,Toro Rosso,D. Kvyat,17.248
+2019,Abu-Dhabi,1,Sauber,A. Giovinazzi,17.288
+2019,Abu-Dhabi,1,Haas,R. Grosjean,17.339
+2019,Abu-Dhabi,1,Sauber,K. Raikkonen,17.348
+2019,Abu-Dhabi,1,Williams,G. Russell,17.39
+2019,Abu-Dhabi,1,Williams,R. Kubica,17.466
+2019,Abu-Dhabi,2,Ferrari,S. Vettel,40.488
+2019,Abu-Dhabi,2,Ferrari,C. Leclerc,40.521
+2019,Abu-Dhabi,2,Mercedes,L. Hamilton,40.561
+2019,Abu-Dhabi,2,Red Bull,M. Verstappen,40.648
+2019,Abu-Dhabi,2,Mercedes,V. Bottas,40.672
+2019,Abu-Dhabi,2,McLaren,C. Sainz,40.835
+2019,Abu-Dhabi,2,Red Bull,A. Albon,40.9
+2019,Abu-Dhabi,2,McLaren,L. Norris,41.086
+2019,Abu-Dhabi,2,Renault,D. Ricciardo,41.09
+2019,Abu-Dhabi,2,Renault,N. Hulkenberg,41.123
+2019,Abu-Dhabi,2,Racing Point,S. Perez,41.195
+2019,Abu-Dhabi,2,Racing Point,L. Stroll,41.219
+2019,Abu-Dhabi,2,Haas,K. Magnussen,41.26
+2019,Abu-Dhabi,2,Toro Rosso,D. Kvyat,41.306
+2019,Abu-Dhabi,2,Toro Rosso,P. Gasly,41.392
+2019,Abu-Dhabi,2,Haas,R. Grosjean,41.623
+2019,Abu-Dhabi,2,Sauber,K. Raikkonen,41.675
+2019,Abu-Dhabi,2,Sauber,A. Giovinazzi,41.731
+2019,Abu-Dhabi,2,Williams,G. Russell,41.816
+2019,Abu-Dhabi,2,Williams,R. Kubica,42.142
+2019,Abu-Dhabi,3,Mercedes,L. Hamilton,37.235
+2019,Abu-Dhabi,3,Mercedes,V. Bottas,37.322
+2019,Abu-Dhabi,3,Red Bull,M. Verstappen,37.349
+2019,Abu-Dhabi,3,Red Bull,A. Albon,37.677
+2019,Abu-Dhabi,3,Ferrari,C. Leclerc,37.871
+2019,Abu-Dhabi,3,Ferrari,S. Vettel,37.99
+2019,Abu-Dhabi,3,McLaren,L. Norris,38.234
+2019,Abu-Dhabi,3,Renault,D. Ricciardo,38.263
+2019,Abu-Dhabi,3,McLaren,C. Sainz,38.313
+2019,Abu-Dhabi,3,Toro Rosso,D. Kvyat,38.445
+2019,Abu-Dhabi,3,Toro Rosso,P. Gasly,38.446
+2019,Abu-Dhabi,3,Renault,N. Hulkenberg,38.466
+2019,Abu-Dhabi,3,Racing Point,S. Perez,38.585
+2019,Abu-Dhabi,3,Racing Point,L. Stroll,38.7
+2019,Abu-Dhabi,3,Haas,K. Magnussen,38.809
+2019,Abu-Dhabi,3,Haas,R. Grosjean,38.96
+2019,Abu-Dhabi,3,Sauber,A. Giovinazzi,39.095
+2019,Abu-Dhabi,3,Sauber,K. Raikkonen,39.36
+2019,Abu-Dhabi,3,Williams,G. Russell,39.485
+2019,Abu-Dhabi,3,Williams,R. Kubica,39.628
+2019,Australia,1,Mercedes,L. Hamilton,26.613
+2019,Australia,1,Mercedes,V. Bottas,26.653
+2019,Australia,1,Red Bull,M. Verstappen,26.815
+2019,Australia,1,Ferrari,S. Vettel,26.936
+2019,Australia,1,Ferrari,C. Leclerc,26.949
+2019,Australia,1,Haas,R. Grosjean,27.1
+2019,Australia,1,Haas,K. Magnussen,27.174
+2019,Australia,1,Sauber,K. Raikkonen,27.195
+2019,Australia,1,McLaren,L. Norris,27.246
+2019,Australia,1,Racing Point,S. Perez,27.307
+2019,Australia,1,Renault,N. Hulkenberg,27.366
+2019,Australia,1,Toro Rosso,D. Kvyat,27.396
+2019,Australia,1,Toro Rosso,A. Albon,27.41
+2019,Australia,1,Renault,D. Ricciardo,27.448
+2019,Australia,1,Sauber,A. Giovinazzi,27.45
+2019,Australia,1,Racing Point,L. Stroll,27.495
+2019,Australia,1,McLaren,C. Sainz,27.564
+2019,Australia,1,Red Bull,P. Gasly,27.667
+2019,Australia,1,Williams,G. Russell,27.998
+2019,Australia,1,Williams,R. Kubica,28.21
+2019,Australia,2,Mercedes,V. Bottas,21.877
+2019,Australia,2,Mercedes,L. Hamilton,21.962
+2019,Australia,2,Ferrari,S. Vettel,22.172
+2019,Australia,2,Ferrari,C. Leclerc,22.177
+2019,Australia,2,Haas,R. Grosjean,22.238
+2019,Australia,2,Red Bull,M. Verstappen,22.252
+2019,Australia,2,Sauber,A. Giovinazzi,22.273
+2019,Australia,2,Haas,K. Magnussen,22.322
+2019,Australia,2,Renault,N. Hulkenberg,22.327
+2019,Australia,2,McLaren,L. Norris,22.332
+2019,Australia,2,Toro Rosso,A. Albon,22.333
+2019,Australia,2,Toro Rosso,D. Kvyat,22.406
+2019,Australia,2,Sauber,K. Raikkonen,22.409
+2019,Australia,2,Renault,D. Ricciardo,22.449
+2019,Australia,2,Racing Point,S. Perez,22.485
+2019,Australia,2,Racing Point,L. Stroll,22.525
+2019,Australia,2,Red Bull,P. Gasly,22.547
+2019,Australia,2,McLaren,C. Sainz,22.559
+2019,Australia,2,Williams,G. Russell,22.872
+2019,Australia,2,Williams,R. Kubica,23.279
+2019,Australia,3,Mercedes,L. Hamilton,31.911
+2019,Australia,3,Mercedes,V. Bottas,31.962
+2019,Australia,3,Ferrari,S. Vettel,32.034
+2019,Australia,3,Ferrari,C. Leclerc,32.236
+2019,Australia,3,Red Bull,M. Verstappen,32.239
+2019,Australia,3,Haas,K. Magnussen,32.403
+2019,Australia,3,Haas,R. Grosjean,32.406
+2019,Australia,3,Sauber,K. Raikkonen,32.574
+2019,Australia,3,Renault,D. Ricciardo,32.597
+2019,Australia,3,McLaren,L. Norris,32.606
+2019,Australia,3,Renault,N. Hulkenberg,32.681
+2019,Australia,3,Racing Point,S. Perez,32.693
+2019,Australia,3,Toro Rosso,D. Kvyat,32.697
+2019,Australia,3,Sauber,A. Giovinazzi,32.705
+2019,Australia,3,Red Bull,P. Gasly,32.806
+2019,Australia,3,Toro Rosso,A. Albon,32.858
+2019,Australia,3,Racing Point,L. Stroll,32.907
+2019,Australia,3,McLaren,C. Sainz,32.961
+2019,Australia,3,Williams,G. Russell,33.49
+2019,Australia,3,Williams,R. Kubica,33.908
+2019,Austria,1,Ferrari,C. Leclerc,15.952
+2019,Austria,1,Ferrari,S. Vettel,16.025
+2019,Austria,1,Mercedes,L. Hamilton,16.071
+2019,Austria,1,Mercedes,V. Bottas,16.099
+2019,Austria,1,Red Bull,M. Verstappen,16.122
+2019,Austria,1,Sauber,A. Giovinazzi,16.13
+2019,Austria,1,Sauber,K. Raikkonen,16.152
+2019,Austria,1,Red Bull,P. Gasly,16.16
+2019,Austria,1,Renault,N. Hulkenberg,16.162
+2019,Austria,1,McLaren,L. Norris,16.193
+2019,Austria,1,Renault,D. Ricciardo,16.206
+2019,Austria,1,McLaren,C. Sainz,16.218
+2019,Austria,1,Toro Rosso,A. Albon,16.268
+2019,Austria,1,Racing Point,L. Stroll,16.298
+2019,Austria,1,Racing Point,S. Perez,16.322
+2019,Austria,1,Williams,G. Russell,16.39
+2019,Austria,1,Toro Rosso,D. Kvyat,16.406
+2019,Austria,1,Haas,K. Magnussen,16.413
+2019,Austria,1,Haas,R. Grosjean,16.442
+2019,Austria,1,Williams,R. Kubica,16.715
+2019,Austria,2,Ferrari,C. Leclerc,27.961
+2019,Austria,2,Mercedes,L. Hamilton,28.104
+2019,Austria,2,Mercedes,V. Bottas,28.126
+2019,Austria,2,Red Bull,M. Verstappen,28.175
+2019,Austria,2,Sauber,K. Raikkonen,28.282
+2019,Austria,2,Ferrari,S. Vettel,28.308
+2019,Austria,2,Red Bull,P. Gasly,28.309
+2019,Austria,2,Haas,K. Magnussen,28.35
+2019,Austria,2,McLaren,L. Norris,28.386
+2019,Austria,2,Sauber,A. Giovinazzi,28.469
+2019,Austria,2,Haas,R. Grosjean,28.473
+2019,Austria,2,Toro Rosso,A. Albon,28.523
+2019,Austria,2,Renault,N. Hulkenberg,28.532
+2019,Austria,2,Toro Rosso,D. Kvyat,28.561
+2019,Austria,2,Racing Point,S. Perez,28.563
+2019,Austria,2,McLaren,C. Sainz,28.594
+2019,Austria,2,Racing Point,L. Stroll,28.734
+2019,Austria,2,Renault,D. Ricciardo,28.755
+2019,Austria,2,Williams,G. Russell,29.306
+2019,Austria,2,Williams,R. Kubica,29.344
+2019,Austria,3,Ferrari,C. Leclerc,19.05
+2019,Austria,3,Mercedes,L. Hamilton,19.087
+2019,Austria,3,Mercedes,V. Bottas,19.137
+2019,Austria,3,Red Bull,M. Verstappen,19.142
+2019,Austria,3,Haas,K. Magnussen,19.278
+2019,Austria,3,Ferrari,S. Vettel,19.334
+2019,Austria,3,Haas,R. Grosjean,19.396
+2019,Austria,3,Sauber,A. Giovinazzi,19.404
+2019,Austria,3,Red Bull,P. Gasly,19.455
+2019,Austria,3,McLaren,L. Norris,19.484
+2019,Austria,3,Sauber,K. Raikkonen,19.522
+2019,Austria,3,McLaren,C. Sainz,19.608
+2019,Austria,3,Renault,D. Ricciardo,19.686
+2019,Austria,3,Renault,N. Hulkenberg,19.699
+2019,Austria,3,Toro Rosso,A. Albon,19.751
+2019,Austria,3,Racing Point,L. Stroll,19.8
+2019,Austria,3,Racing Point,S. Perez,19.838
+2019,Austria,3,Toro Rosso,D. Kvyat,19.992
+2019,Austria,3,Williams,R. Kubica,20.14
+2019,Austria,3,Williams,G. Russell,20.15
+2019,Azerbaijan,1,Ferrari,S. Vettel,35.326
+2019,Azerbaijan,1,Mercedes,V. Bottas,35.359
+2019,Azerbaijan,1,Mercedes,L. Hamilton,35.384
+2019,Azerbaijan,1,Red Bull,M. Verstappen,35.482
+2019,Azerbaijan,1,Red Bull,P. Gasly,35.565
+2019,Azerbaijan,1,Ferrari,C. Leclerc,35.605
+2019,Azerbaijan,1,McLaren,L. Norris,35.646
+2019,Azerbaijan,1,Toro Rosso,D. Kvyat,35.648
+2019,Azerbaijan,1,Racing Point,S. Perez,35.688
+2019,Azerbaijan,1,Toro Rosso,A. Albon,35.784
+2019,Azerbaijan,1,McLaren,C. Sainz,35.872
+2019,Azerbaijan,1,Sauber,K. Raikkonen,35.9
+2019,Azerbaijan,1,Renault,D. Ricciardo,36.014
+2019,Azerbaijan,1,Sauber,A. Giovinazzi,36.099
+2019,Azerbaijan,1,Haas,K. Magnussen,36.1
+2019,Azerbaijan,1,Racing Point,L. Stroll,36.164
+2019,Azerbaijan,1,Haas,R. Grosjean,36.391
+2019,Azerbaijan,1,Renault,N. Hulkenberg,36.496
+2019,Azerbaijan,1,Williams,G. Russell,36.696
+2019,Azerbaijan,1,Williams,R. Kubica,36.93
+2019,Azerbaijan,2,Mercedes,L. Hamilton,40.253
+2019,Azerbaijan,2,Mercedes,V. Bottas,40.4
+2019,Azerbaijan,2,Red Bull,M. Verstappen,40.462
+2019,Azerbaijan,2,Ferrari,S. Vettel,40.473
+2019,Azerbaijan,2,Toro Rosso,D. Kvyat,40.761
+2019,Azerbaijan,2,Ferrari,C. Leclerc,40.794
+2019,Azerbaijan,2,Red Bull,P. Gasly,40.866
+2019,Azerbaijan,2,Racing Point,S. Perez,40.928
+2019,Azerbaijan,2,McLaren,L. Norris,40.981
+2019,Azerbaijan,2,McLaren,C. Sainz,41.041
+2019,Azerbaijan,2,Toro Rosso,A. Albon,41.261
+2019,Azerbaijan,2,Sauber,A. Giovinazzi,41.296
+2019,Azerbaijan,2,Sauber,K. Raikkonen,41.332
+2019,Azerbaijan,2,Renault,D. Ricciardo,41.348
+2019,Azerbaijan,2,Haas,K. Magnussen,41.386
+2019,Azerbaijan,2,Racing Point,L. Stroll,41.464
+2019,Azerbaijan,2,Haas,R. Grosjean,41.58
+2019,Azerbaijan,2,Renault,N. Hulkenberg,41.73
+2019,Azerbaijan,2,Williams,G. Russell,42.304
+2019,Azerbaijan,2,Williams,R. Kubica,42.361
+2019,Azerbaijan,3,Sauber,A. Giovinazzi,24.614
+2019,Azerbaijan,3,Mercedes,L. Hamilton,24.698
+2019,Azerbaijan,3,Mercedes,V. Bottas,24.736
+2019,Azerbaijan,3,Sauber,K. Raikkonen,24.75
+2019,Azerbaijan,3,Ferrari,S. Vettel,24.764
+2019,Azerbaijan,3,Ferrari,C. Leclerc,24.787
+2019,Azerbaijan,3,Racing Point,S. Perez,24.836
+2019,Azerbaijan,3,Haas,K. Magnussen,24.884
+2019,Azerbaijan,3,McLaren,C. Sainz,24.888
+2019,Azerbaijan,3,Red Bull,P. Gasly,24.904
+2019,Azerbaijan,3,Haas,R. Grosjean,24.982
+2019,Azerbaijan,3,Renault,D. Ricciardo,24.984
+2019,Azerbaijan,3,Red Bull,M. Verstappen,24.985
+2019,Azerbaijan,3,Racing Point,L. Stroll,24.987
+2019,Azerbaijan,3,Toro Rosso,A. Albon,25.001
+2019,Azerbaijan,3,McLaren,L. Norris,25.071
+2019,Azerbaijan,3,Toro Rosso,D. Kvyat,25.091
+2019,Azerbaijan,3,Renault,N. Hulkenberg,25.201
+2019,Azerbaijan,3,Williams,G. Russell,25.564
+2019,Azerbaijan,3,Williams,R. Kubica,25.982
+2019,Bahrein,1,Ferrari,C. Leclerc,27.762
+2019,Bahrein,1,Ferrari,S. Vettel,27.825
+2019,Bahrein,1,Mercedes,L. Hamilton,27.946
+2019,Bahrein,1,Mercedes,V. Bottas,28.029
+2019,Bahrein,1,Sauber,K. Raikkonen,28.108
+2019,Bahrein,1,Red Bull,M. Verstappen,28.138
+2019,Bahrein,1,Toro Rosso,A. Albon,28.148
+2019,Bahrein,1,Haas,K. Magnussen,28.152
+2019,Bahrein,1,McLaren,L. Norris,28.211
+2019,Bahrein,1,Renault,D. Ricciardo,28.285
+2019,Bahrein,1,Red Bull,P. Gasly,28.292
+2019,Bahrein,1,Haas,R. Grosjean,28.298
+2019,Bahrein,1,Renault,N. Hulkenberg,28.386
+2019,Bahrein,1,Toro Rosso,D. Kvyat,28.531
+2019,Bahrein,1,Racing Point,L. Stroll,28.575
+2019,Bahrein,1,Sauber,A. Giovinazzi,28.577
+2019,Bahrein,1,Williams,G. Russell,28.862
+2019,Bahrein,1,Williams,R. Kubica,28.879
+2019,Bahrein,2,Mercedes,V. Bottas,38.065
+2019,Bahrein,2,Ferrari,C. Leclerc,38.066
+2019,Bahrein,2,Ferrari,S. Vettel,38.12
+2019,Bahrein,2,Mercedes,L. Hamilton,38.137
+2019,Bahrein,2,Red Bull,M. Verstappen,38.331
+2019,Bahrein,2,Haas,K. Magnussen,38.399
+2019,Bahrein,2,McLaren,L. Norris,38.414
+2019,Bahrein,2,Haas,R. Grosjean,38.513
+2019,Bahrein,2,Sauber,K. Raikkonen,38.513
+2019,Bahrein,2,Red Bull,P. Gasly,38.575
+2019,Bahrein,2,Toro Rosso,A. Albon,38.707
+2019,Bahrein,2,Toro Rosso,D. Kvyat,38.808
+2019,Bahrein,2,Sauber,A. Giovinazzi,38.835
+2019,Bahrein,2,Renault,D. Ricciardo,38.857
+2019,Bahrein,2,Renault,N. Hulkenberg,38.953
+2019,Bahrein,2,Racing Point,L. Stroll,39
+2019,Bahrein,2,Williams,R. Kubica,39.623
+2019,Bahrein,2,Williams,G. Russell,39.799
+2019,Bahrein,3,Ferrari,C. Leclerc,22.036
+2019,Bahrein,3,Mercedes,V. Bottas,22.098
+2019,Bahrein,3,Mercedes,L. Hamilton,22.104
+2019,Bahrein,3,Ferrari,S. Vettel,22.146
+2019,Bahrein,3,Haas,K. Magnussen,22.152
+2019,Bahrein,3,Haas,R. Grosjean,22.204
+2019,Bahrein,3,Red Bull,M. Verstappen,22.283
+2019,Bahrein,3,Renault,D. Ricciardo,22.339
+2019,Bahrein,3,Sauber,K. Raikkonen,22.352
+2019,Bahrein,3,McLaren,L. Norris,22.418
+2019,Bahrein,3,Toro Rosso,D. Kvyat,22.465
+2019,Bahrein,3,Toro Rosso,A. Albon,22.479
+2019,Bahrein,3,Red Bull,P. Gasly,22.499
+2019,Bahrein,3,Sauber,A. Giovinazzi,22.614
+2019,Bahrein,3,Racing Point,L. Stroll,22.634
+2019,Bahrein,3,Renault,N. Hulkenberg,22.649
+2019,Bahrein,3,Williams,G. Russell,23.098
+2019,Bahrein,3,Williams,R. Kubica,23.117
+2019,Belgium,1,Ferrari,S. Vettel,29.897
+2019,Belgium,1,Ferrari,C. Leclerc,29.904
+2019,Belgium,1,Renault,D. Ricciardo,30.376
+2019,Belgium,1,Renault,N. Hulkenberg,30.379
+2019,Belgium,1,Haas,K. Magnussen,30.45
+2019,Belgium,1,Racing Point,S. Perez,30.48
+2019,Belgium,1,Mercedes,L. Hamilton,30.498
+2019,Belgium,1,Sauber,K. Raikkonen,30.515
+2019,Belgium,1,Haas,R. Grosjean,30.536
+2019,Belgium,1,Racing Point,L. Stroll,30.567
+2019,Belgium,1,Red Bull,M. Verstappen,30.684
+2019,Belgium,1,McLaren,L. Norris,30.72
+2019,Belgium,1,Sauber,A. Giovinazzi,30.766
+2019,Belgium,1,Mercedes,V. Bottas,30.767
+2019,Belgium,1,Red Bull,A. Albon,30.787
+2019,Belgium,1,McLaren,C. Sainz,31.194
+2019,Belgium,1,Toro Rosso,P. Gasly,31.305
+2019,Belgium,1,Williams,G. Russell,31.465
+2019,Belgium,1,Toro Rosso,D. Kvyat,31.469
+2019,Belgium,1,Williams,R. Kubica,31.722
+2019,Belgium,2,Mercedes,L. Hamilton,43.97
+2019,Belgium,2,Mercedes,V. Bottas,44.078
+2019,Belgium,2,Ferrari,C. Leclerc,44.319
+2019,Belgium,2,Ferrari,S. Vettel,44.357
+2019,Belgium,2,Red Bull,M. Verstappen,44.395
+2019,Belgium,2,Red Bull,A. Albon,44.852
+2019,Belgium,2,Sauber,K. Raikkonen,44.936
+2019,Belgium,2,Renault,D. Ricciardo,45.206
+2019,Belgium,2,Renault,N. Hulkenberg,45.338
+2019,Belgium,2,Haas,K. Magnussen,45.4
+2019,Belgium,2,McLaren,L. Norris,45.461
+2019,Belgium,2,Racing Point,S. Perez,45.463
+2019,Belgium,2,Haas,R. Grosjean,45.504
+2019,Belgium,2,Toro Rosso,P. Gasly,45.661
+2019,Belgium,2,Racing Point,L. Stroll,45.713
+2019,Belgium,2,Sauber,A. Giovinazzi,45.824
+2019,Belgium,2,Toro Rosso,D. Kvyat,45.853
+2019,Belgium,2,McLaren,C. Sainz,46.351
+2019,Belgium,2,Williams,G. Russell,46.6
+2019,Belgium,2,Williams,R. Kubica,46.81
+2019,Belgium,3,Ferrari,C. Leclerc,28.193
+2019,Belgium,3,Ferrari,S. Vettel,28.375
+2019,Belgium,3,Renault,D. Ricciardo,28.404
+2019,Belgium,3,Renault,N. Hulkenberg,28.488
+2019,Belgium,3,Mercedes,V. Bottas,28.57
+2019,Belgium,3,Mercedes,L. Hamilton,28.586
+2019,Belgium,3,Red Bull,M. Verstappen,28.611
+2019,Belgium,3,Sauber,K. Raikkonen,28.62
+2019,Belgium,3,McLaren,L. Norris,28.666
+2019,Belgium,3,Racing Point,S. Perez,28.678
+2019,Belgium,3,Haas,R. Grosjean,28.757
+2019,Belgium,3,Racing Point,L. Stroll,28.767
+2019,Belgium,3,Sauber,A. Giovinazzi,28.822
+2019,Belgium,3,Haas,K. Magnussen,28.888
+2019,Belgium,3,McLaren,C. Sainz,28.962
+2019,Belgium,3,Red Bull,A. Albon,28.97
+2019,Belgium,3,Toro Rosso,D. Kvyat,29.196
+2019,Belgium,3,Toro Rosso,P. Gasly,29.469
+2019,Belgium,3,Williams,G. Russell,29.483
+2019,Belgium,3,Williams,R. Kubica,38.318
+2019,Brazil,1,Ferrari,C. Leclerc,17.417
+2019,Brazil,1,Red Bull,M. Verstappen,17.425
+2019,Brazil,1,Ferrari,S. Vettel,17.462
+2019,Brazil,1,Mercedes,L. Hamilton,17.532
+2019,Brazil,1,Mercedes,V. Bottas,17.621
+2019,Brazil,1,Red Bull,A. Albon,17.631
+2019,Brazil,1,McLaren,L. Norris,17.717
+2019,Brazil,1,McLaren,C. Sainz,17.728
+2019,Brazil,1,Sauber,K. Raikkonen,17.731
+2019,Brazil,1,Sauber,A. Giovinazzi,17.754
+2019,Brazil,1,Haas,K. Magnussen,17.756
+2019,Brazil,1,Toro Rosso,P. Gasly,17.773
+2019,Brazil,1,Haas,R. Grosjean,17.786
+2019,Brazil,1,Renault,D. Ricciardo,17.799
+2019,Brazil,1,Racing Point,S. Perez,17.822
+2019,Brazil,1,Renault,N. Hulkenberg,17.857
+2019,Brazil,1,Toro Rosso,D. Kvyat,17.899
+2019,Brazil,1,Racing Point,L. Stroll,17.926
+2019,Brazil,1,Williams,G. Russell,18.093
+2019,Brazil,1,Williams,R. Kubica,18.199
+2019,Brazil,2,Red Bull,M. Verstappen,34.195
+2019,Brazil,2,Mercedes,L. Hamilton,34.248
+2019,Brazil,2,Ferrari,C. Leclerc,34.265
+2019,Brazil,2,Mercedes,V. Bottas,34.33
+2019,Brazil,2,Ferrari,S. Vettel,34.346
+2019,Brazil,2,Red Bull,A. Albon,34.384
+2019,Brazil,2,Haas,R. Grosjean,34.83
+2019,Brazil,2,Haas,K. Magnussen,34.932
+2019,Brazil,2,Toro Rosso,P. Gasly,34.955
+2019,Brazil,2,Renault,N. Hulkenberg,34.973
+2019,Brazil,2,McLaren,L. Norris,35.052
+2019,Brazil,2,Renault,D. Ricciardo,35.052
+2019,Brazil,2,Racing Point,S. Perez,35.094
+2019,Brazil,2,Sauber,K. Raikkonen,35.122
+2019,Brazil,2,Sauber,A. Giovinazzi,35.205
+2019,Brazil,2,Toro Rosso,D. Kvyat,35.227
+2019,Brazil,2,Racing Point,L. Stroll,35.393
+2019,Brazil,2,McLaren,C. Sainz,35.553
+2019,Brazil,2,Williams,G. Russell,35.669
+2019,Brazil,2,Williams,R. Kubica,36.119
+2019,Brazil,3,Ferrari,C. Leclerc,15.804
+2019,Brazil,3,Mercedes,V. Bottas,15.817
+2019,Brazil,3,Mercedes,L. Hamilton,15.819
+2019,Brazil,3,Ferrari,S. Vettel,15.823
+2019,Brazil,3,Red Bull,M. Verstappen,15.827
+2019,Brazil,3,Red Bull,A. Albon,15.897
+2019,Brazil,3,Toro Rosso,P. Gasly,15.915
+2019,Brazil,3,Sauber,A. Giovinazzi,15.96
+2019,Brazil,3,Sauber,K. Raikkonen,15.973
+2019,Brazil,3,Renault,D. Ricciardo,15.982
+2019,Brazil,3,McLaren,L. Norris,15.987
+2019,Brazil,3,Renault,N. Hulkenberg,16.024
+2019,Brazil,3,Racing Point,S. Perez,16.028
+2019,Brazil,3,Haas,K. Magnussen,16.065
+2019,Brazil,3,Haas,R. Grosjean,16.089
+2019,Brazil,3,Toro Rosso,D. Kvyat,16.093
+2019,Brazil,3,Racing Point,L. Stroll,16.203
+2019,Brazil,3,Williams,G. Russell,16.229
+2019,Brazil,3,Williams,R. Kubica,16.266
+2019,Brazil,3,McLaren,C. Sainz,18.929
+2019,Canada,1,Mercedes,L. Hamilton,19.323
+2019,Canada,1,Ferrari,S. Vettel,19.357
+2019,Canada,1,Mercedes,V. Bottas,19.449
+2019,Canada,1,Ferrari,C. Leclerc,19.483
+2019,Canada,1,Red Bull,P. Gasly,19.53
+2019,Canada,1,Renault,D. Ricciardo,19.591
+2019,Canada,1,Red Bull,M. Verstappen,19.613
+2019,Canada,1,Haas,K. Magnussen,19.683
+2019,Canada,1,Renault,N. Hulkenberg,19.741
+2019,Canada,1,McLaren,C. Sainz,19.757
+2019,Canada,1,Toro Rosso,A. Albon,19.778
+2019,Canada,1,McLaren,L. Norris,19.792
+2019,Canada,1,Haas,R. Grosjean,19.806
+2019,Canada,1,Toro Rosso,D. Kvyat,19.828
+2019,Canada,1,Sauber,A. Giovinazzi,20.038
+2019,Canada,1,Racing Point,S. Perez,20.055
+2019,Canada,1,Racing Point,L. Stroll,20.082
+2019,Canada,1,Sauber,K. Raikkonen,20.102
+2019,Canada,1,Williams,G. Russell,20.493
+2019,Canada,1,Williams,R. Kubica,20.708
+2019,Canada,2,Mercedes,L. Hamilton,22.369
+2019,Canada,2,Ferrari,C. Leclerc,22.418
+2019,Canada,2,Ferrari,S. Vettel,22.427
+2019,Canada,2,Red Bull,P. Gasly,22.569
+2019,Canada,2,Renault,D. Ricciardo,22.613
+2019,Canada,2,Mercedes,V. Bottas,22.618
+2019,Canada,2,Renault,N. Hulkenberg,22.701
+2019,Canada,2,Red Bull,M. Verstappen,22.727
+2019,Canada,2,McLaren,C. Sainz,22.871
+2019,Canada,2,Toro Rosso,A. Albon,22.885
+2019,Canada,2,McLaren,L. Norris,22.897
+2019,Canada,2,Toro Rosso,D. Kvyat,22.903
+2019,Canada,2,Haas,K. Magnussen,22.91
+2019,Canada,2,Sauber,A. Giovinazzi,22.927
+2019,Canada,2,Racing Point,S. Perez,22.945
+2019,Canada,2,Sauber,K. Raikkonen,22.961
+2019,Canada,2,Haas,R. Grosjean,22.995
+2019,Canada,2,Racing Point,L. Stroll,23.062
+2019,Canada,2,Williams,G. Russell,23.386
+2019,Canada,2,Williams,R. Kubica,23.772
+2019,Canada,3,Ferrari,S. Vettel,28.449
+2019,Canada,3,Ferrari,C. Leclerc,28.633
+2019,Canada,3,Mercedes,L. Hamilton,28.683
+2019,Canada,3,Renault,D. Ricciardo,28.766
+2019,Canada,3,McLaren,C. Sainz,28.78
+2019,Canada,3,Renault,N. Hulkenberg,28.838
+2019,Canada,3,McLaren,L. Norris,28.88
+2019,Canada,3,Mercedes,V. Bottas,28.903
+2019,Canada,3,Red Bull,P. Gasly,28.906
+2019,Canada,3,Racing Point,L. Stroll,28.937
+2019,Canada,3,Haas,K. Magnussen,28.954
+2019,Canada,3,Sauber,A. Giovinazzi,28.958
+2019,Canada,3,Toro Rosso,D. Kvyat,29.021
+2019,Canada,3,Red Bull,M. Verstappen,29.043
+2019,Canada,3,Haas,R. Grosjean,29.076
+2019,Canada,3,Sauber,K. Raikkonen,29.084
+2019,Canada,3,Toro Rosso,A. Albon,29.085
+2019,Canada,3,Racing Point,S. Perez,29.148
+2019,Canada,3,Williams,G. Russell,29.624
+2019,Canada,3,Williams,R. Kubica,29.913
+2019,China,1,Mercedes,L. Hamilton,23.921
+2019,China,1,Ferrari,S. Vettel,23.933
+2019,China,1,Mercedes,V. Bottas,23.988
+2019,China,1,Ferrari,C. Leclerc,24.01
+2019,China,1,Red Bull,M. Verstappen,24.041
+2019,China,1,Haas,R. Grosjean,24.194
+2019,China,1,Haas,K. Magnussen,24.296
+2019,China,1,Toro Rosso,D. Kvyat,24.299
+2019,China,1,Red Bull,P. Gasly,24.326
+2019,China,1,Renault,D. Ricciardo,24.336
+2019,China,1,Renault,N. Hulkenberg,24.351
+2019,China,1,McLaren,C. Sainz,24.452
+2019,China,1,Sauber,K. Raikkonen,24.489
+2019,China,1,McLaren,L. Norris,24.497
+2019,China,1,Racing Point,L. Stroll,24.538
+2019,China,1,Williams,G. Russell,24.848
+2019,China,1,Williams,R. Kubica,24.896
+2019,China,1,Sauber,A. Giovinazzi,29.619
+2019,China,2,Mercedes,L. Hamilton,27.016
+2019,China,2,Mercedes,V. Bottas,27.051
+2019,China,2,Ferrari,C. Leclerc,27.133
+2019,China,2,Ferrari,S. Vettel,27.135
+2019,China,2,Red Bull,M. Verstappen,27.176
+2019,China,2,Renault,N. Hulkenberg,27.451
+2019,China,2,Haas,K. Magnussen,27.463
+2019,China,2,Toro Rosso,D. Kvyat,27.552
+2019,China,2,Renault,D. Ricciardo,27.577
+2019,China,2,McLaren,C. Sainz,27.584
+2019,China,2,Haas,R. Grosjean,27.603
+2019,China,2,Red Bull,P. Gasly,27.624
+2019,China,2,Sauber,K. Raikkonen,27.649
+2019,China,2,McLaren,L. Norris,27.828
+2019,China,2,Racing Point,L. Stroll,27.927
+2019,China,2,Williams,R. Kubica,28.18
+2019,China,2,Williams,G. Russell,28.203
+2019,China,2,Sauber,A. Giovinazzi,37.651
+2019,China,3,Sauber,A. Giovinazzi,01:02.1
+2019,China,3,Mercedes,L. Hamilton,40.24
+2019,China,3,Mercedes,V. Bottas,40.383
+2019,China,3,Ferrari,S. Vettel,40.438
+2019,China,3,Ferrari,C. Leclerc,40.499
+2019,China,3,Red Bull,M. Verstappen,40.636
+2019,China,3,Red Bull,P. Gasly,40.854
+2019,China,3,Renault,N. Hulkenberg,40.877
+2019,China,3,Renault,D. Ricciardo,40.999
+2019,China,3,Toro Rosso,D. Kvyat,41.119
+2019,China,3,McLaren,C. Sainz,41.181
+2019,China,3,Haas,K. Magnussen,41.188
+2019,China,3,Sauber,K. Raikkonen,41.193
+2019,China,3,Haas,R. Grosjean,41.359
+2019,China,3,McLaren,L. Norris,41.522
+2019,China,3,Racing Point,L. Stroll,41.616
+2019,China,3,Williams,G. Russell,42.026
+2019,China,3,Williams,R. Kubica,42.137
+2019,France,1,Mercedes,L. Hamilton,21.951
+2019,France,1,Mercedes,V. Bottas,22.046
+2019,France,1,Ferrari,C. Leclerc,22.184
+2019,France,1,McLaren,C. Sainz,22.254
+2019,France,1,Red Bull,M. Verstappen,22.279
+2019,France,1,McLaren,L. Norris,22.369
+2019,France,1,Ferrari,S. Vettel,22.37
+2019,France,1,Renault,D. Ricciardo,22.514
+2019,France,1,Red Bull,P. Gasly,22.523
+2019,France,1,Toro Rosso,A. Albon,22.57
+2019,France,1,Renault,N. Hulkenberg,22.61
+2019,France,1,Sauber,K. Raikkonen,22.651
+2019,France,1,Sauber,A. Giovinazzi,22.667
+2019,France,1,Haas,K. Magnussen,22.791
+2019,France,1,Haas,R. Grosjean,22.804
+2019,France,1,Racing Point,S. Perez,22.815
+2019,France,1,Toro Rosso,D. Kvyat,22.929
+2019,France,1,Racing Point,L. Stroll,23.164
+2019,France,1,Williams,G. Russell,23.22
+2019,France,1,Williams,R. Kubica,23.566
+2019,France,2,Mercedes,L. Hamilton,27.3
+2019,France,2,Ferrari,S. Vettel,27.388
+2019,France,2,Ferrari,C. Leclerc,27.434
+2019,France,2,Mercedes,V. Bottas,27.493
+2019,France,2,Renault,N. Hulkenberg,27.583
+2019,France,2,Renault,D. Ricciardo,27.63
+2019,France,2,McLaren,L. Norris,27.631
+2019,France,2,McLaren,C. Sainz,27.648
+2019,France,2,Red Bull,M. Verstappen,27.652
+2019,France,2,Sauber,A. Giovinazzi,27.745
+2019,France,2,Sauber,K. Raikkonen,27.754
+2019,France,2,Toro Rosso,A. Albon,27.863
+2019,France,2,Red Bull,P. Gasly,27.88
+2019,France,2,Haas,K. Magnussen,27.921
+2019,France,2,Racing Point,S. Perez,28.038
+2019,France,2,Racing Point,L. Stroll,28.15
+2019,France,2,Haas,R. Grosjean,28.183
+2019,France,2,Toro Rosso,D. Kvyat,28.196
+2019,France,2,Williams,G. Russell,28.491
+2019,France,2,Williams,R. Kubica,28.649
+2019,France,3,Mercedes,L. Hamilton,39.005
+2019,France,3,Mercedes,V. Bottas,39.066
+2019,France,3,Ferrari,C. Leclerc,39.215
+2019,France,3,McLaren,L. Norris,39.407
+2019,France,3,Red Bull,M. Verstappen,39.455
+2019,France,3,McLaren,C. Sainz,39.611
+2019,France,3,Ferrari,S. Vettel,39.675
+2019,France,3,Red Bull,P. Gasly,39.685
+2019,France,3,Renault,D. Ricciardo,39.725
+2019,France,3,Racing Point,S. Perez,39.808
+2019,France,3,Toro Rosso,A. Albon,39.857
+2019,France,3,Sauber,K. Raikkonen,39.94
+2019,France,3,Sauber,A. Giovinazzi,39.996
+2019,France,3,Haas,K. Magnussen,40.105
+2019,France,3,Renault,N. Hulkenberg,40.128
+2019,France,3,Racing Point,L. Stroll,40.412
+2019,France,3,Toro Rosso,D. Kvyat,40.439
+2019,France,3,Haas,R. Grosjean,40.562
+2019,France,3,Williams,R. Kubica,40.99
+2019,France,3,Williams,G. Russell,41.078
+2019,Germany,1,Ferrari,S. Vettel,0
+2019,Germany,1,Mercedes,L. Hamilton,15.411
+2019,Germany,1,Red Bull,M. Verstappen,15.444
+2019,Germany,1,Red Bull,P. Gasly,15.458
+2019,Germany,1,Mercedes,V. Bottas,15.494
+2019,Germany,1,Ferrari,C. Leclerc,15.597
+2019,Germany,1,McLaren,C. Sainz,15.658
+2019,Germany,1,Renault,D. Ricciardo,15.664
+2019,Germany,1,Sauber,K. Raikkonen,15.689
+2019,Germany,1,Sauber,A. Giovinazzi,15.71
+2019,Germany,1,Racing Point,L. Stroll,15.712
+2019,Germany,1,Renault,N. Hulkenberg,15.718
+2019,Germany,1,Haas,K. Magnussen,15.73
+2019,Germany,1,Haas,R. Grosjean,15.736
+2019,Germany,1,McLaren,L. Norris,15.762
+2019,Germany,1,Racing Point,S. Perez,15.763
+2019,Germany,1,Toro Rosso,D. Kvyat,15.791
+2019,Germany,1,Toro Rosso,A. Albon,15.816
+2019,Germany,1,Williams,G. Russell,16.176
+2019,Germany,1,Williams,R. Kubica,16.2
+2019,Germany,2,Ferrari,C. Leclerc,34.515
+2019,Germany,2,Sauber,K. Raikkonen,34.545
+2019,Germany,2,Mercedes,L. Hamilton,34.572
+2019,Germany,2,Racing Point,S. Perez,34.579
+2019,Germany,2,Mercedes,V. Bottas,34.701
+2019,Germany,2,Red Bull,M. Verstappen,34.713
+2019,Germany,2,Red Bull,P. Gasly,34.715
+2019,Germany,2,Sauber,A. Giovinazzi,34.777
+2019,Germany,2,Renault,N. Hulkenberg,34.824
+2019,Germany,2,Renault,D. Ricciardo,34.836
+2019,Germany,2,Haas,R. Grosjean,34.877
+2019,Germany,2,Racing Point,L. Stroll,34.886
+2019,Germany,2,McLaren,C. Sainz,34.886
+2019,Germany,2,Haas,K. Magnussen,35.001
+2019,Germany,2,Toro Rosso,D. Kvyat,35.039
+2019,Germany,2,McLaren,L. Norris,35.279
+2019,Germany,2,Toro Rosso,A. Albon,35.341
+2019,Germany,2,Williams,R. Kubica,35.548
+2019,Germany,2,Williams,G. Russell,35.64
+2019,Germany,2,Ferrari,S. Vettel,57.411
+2019,Germany,3,Ferrari,S. Vettel,0
+2019,Germany,3,Mercedes,L. Hamilton,21.665
+2019,Germany,3,Red Bull,M. Verstappen,21.859
+2019,Germany,3,Mercedes,V. Bottas,21.909
+2019,Germany,3,Red Bull,P. Gasly,21.954
+2019,Germany,3,Haas,K. Magnussen,21.985
+2019,Germany,3,Haas,R. Grosjean,22.027
+2019,Germany,3,Ferrari,C. Leclerc,22.033
+2019,Germany,3,Renault,N. Hulkenberg,22.067
+2019,Germany,3,McLaren,C. Sainz,22.069
+2019,Germany,3,Sauber,K. Raikkonen,22.183
+2019,Germany,3,Renault,D. Ricciardo,22.184
+2019,Germany,3,Toro Rosso,D. Kvyat,22.248
+2019,Germany,3,Sauber,A. Giovinazzi,22.249
+2019,Germany,3,McLaren,L. Norris,22.261
+2019,Germany,3,Racing Point,S. Perez,22.277
+2019,Germany,3,Toro Rosso,A. Albon,22.292
+2019,Germany,3,Racing Point,L. Stroll,22.548
+2019,Germany,3,Williams,G. Russell,22.81
+2019,Germany,3,Williams,R. Kubica,22.841
+2019,Great-Britain,1,Ferrari,C. Leclerc,27.366
+2019,Great-Britain,1,Mercedes,L. Hamilton,27.449
+2019,Great-Britain,1,Mercedes,V. Bottas,27.466
+2019,Great-Britain,1,Renault,N. Hulkenberg,27.495
+2019,Great-Britain,1,Red Bull,M. Verstappen,27.507
+2019,Great-Britain,1,Ferrari,S. Vettel,27.546
+2019,Great-Britain,1,Red Bull,P. Gasly,27.55
+2019,Great-Britain,1,Renault,D. Ricciardo,27.571
+2019,Great-Britain,1,Sauber,K. Raikkonen,27.662
+2019,Great-Britain,1,Racing Point,L. Stroll,27.678
+2019,Great-Britain,1,McLaren,C. Sainz,27.718
+2019,Great-Britain,1,Toro Rosso,A. Albon,27.734
+2019,Great-Britain,1,McLaren,L. Norris,27.756
+2019,Great-Britain,1,Sauber,A. Giovinazzi,27.78
+2019,Great-Britain,1,Racing Point,S. Perez,27.788
+2019,Great-Britain,1,Haas,R. Grosjean,27.836
+2019,Great-Britain,1,Toro Rosso,D. Kvyat,27.847
+2019,Great-Britain,1,Haas,K. Magnussen,27.892
+2019,Great-Britain,1,Williams,G. Russell,28.154
+2019,Great-Britain,1,Williams,R. Kubica,28.268
+2019,Great-Britain,2,Mercedes,V. Bottas,34.408
+2019,Great-Britain,2,Mercedes,L. Hamilton,34.486
+2019,Great-Britain,2,Ferrari,C. Leclerc,34.487
+2019,Great-Britain,2,Red Bull,M. Verstappen,34.516
+2019,Great-Britain,2,Red Bull,P. Gasly,34.652
+2019,Great-Britain,2,Ferrari,S. Vettel,34.748
+2019,Great-Britain,2,Haas,R. Grosjean,34.851
+2019,Great-Britain,2,McLaren,L. Norris,34.932
+2019,Great-Britain,2,McLaren,C. Sainz,34.96
+2019,Great-Britain,2,Toro Rosso,A. Albon,34.987
+2019,Great-Britain,2,Renault,D. Ricciardo,35.051
+2019,Great-Britain,2,Racing Point,S. Perez,35.067
+2019,Great-Britain,2,Renault,N. Hulkenberg,35.115
+2019,Great-Britain,2,Sauber,A. Giovinazzi,35.143
+2019,Great-Britain,2,Haas,K. Magnussen,35.157
+2019,Great-Britain,2,Sauber,K. Raikkonen,35.18
+2019,Great-Britain,2,Toro Rosso,D. Kvyat,35.181
+2019,Great-Britain,2,Racing Point,L. Stroll,35.246
+2019,Great-Britain,2,Williams,G. Russell,35.725
+2019,Great-Britain,2,Williams,R. Kubica,35.894
+2019,Great-Britain,3,Mercedes,L. Hamilton,23.07
+2019,Great-Britain,3,Mercedes,V. Bottas,23.171
+2019,Great-Britain,3,Red Bull,M. Verstappen,23.253
+2019,Great-Britain,3,Ferrari,C. Leclerc,23.284
+2019,Great-Britain,3,Red Bull,P. Gasly,23.294
+2019,Great-Britain,3,McLaren,L. Norris,23.349
+2019,Great-Britain,3,Ferrari,S. Vettel,23.39
+2019,Great-Britain,3,McLaren,C. Sainz,23.423
+2019,Great-Britain,3,Sauber,A. Giovinazzi,23.452
+2019,Great-Britain,3,Haas,R. Grosjean,23.492
+2019,Great-Britain,3,Toro Rosso,A. Albon,23.506
+2019,Great-Britain,3,Renault,D. Ricciardo,23.523
+2019,Great-Britain,3,Haas,K. Magnussen,23.531
+2019,Great-Britain,3,Sauber,K. Raikkonen,23.594
+2019,Great-Britain,3,Renault,N. Hulkenberg,23.599
+2019,Great-Britain,3,Toro Rosso,D. Kvyat,23.632
+2019,Great-Britain,3,Racing Point,L. Stroll,23.69
+2019,Great-Britain,3,Racing Point,S. Perez,23.754
+2019,Great-Britain,3,Williams,G. Russell,23.886
+2019,Great-Britain,3,Williams,R. Kubica,23.996
+2019,Hungary,1,Ferrari,S. Vettel,26.918
+2019,Hungary,1,Ferrari,C. Leclerc,27.036
+2019,Hungary,1,Mercedes,V. Bottas,27.079
+2019,Hungary,1,Red Bull,M. Verstappen,27.095
+2019,Hungary,1,Mercedes,L. Hamilton,27.228
+2019,Hungary,1,McLaren,C. Sainz,27.279
+2019,Hungary,1,McLaren,L. Norris,27.284
+2019,Hungary,1,Red Bull,P. Gasly,27.33
+2019,Hungary,1,Sauber,K. Raikkonen,27.361
+2019,Hungary,1,Renault,N. Hulkenberg,27.422
+2019,Hungary,1,Haas,R. Grosjean,27.457
+2019,Hungary,1,Haas,K. Magnussen,27.525
+2019,Hungary,1,Sauber,A. Giovinazzi,27.526
+2019,Hungary,1,Toro Rosso,A. Albon,27.554
+2019,Hungary,1,Toro Rosso,D. Kvyat,27.626
+2019,Hungary,1,Racing Point,L. Stroll,27.666
+2019,Hungary,1,Racing Point,S. Perez,27.674
+2019,Hungary,1,Renault,D. Ricciardo,27.807
+2019,Hungary,1,Williams,G. Russell,27.827
+2019,Hungary,1,Williams,R. Kubica,28.026
+2019,Hungary,2,Mercedes,V. Bottas,26.411
+2019,Hungary,2,Red Bull,M. Verstappen,26.456
+2019,Hungary,2,Mercedes,L. Hamilton,26.488
+2019,Hungary,2,Ferrari,C. Leclerc,26.553
+2019,Hungary,2,Ferrari,S. Vettel,26.793
+2019,Hungary,2,Red Bull,P. Gasly,26.809
+2019,Hungary,2,Haas,K. Magnussen,26.813
+2019,Hungary,2,Haas,R. Grosjean,26.861
+2019,Hungary,2,McLaren,L. Norris,26.905
+2019,Hungary,2,McLaren,C. Sainz,27.013
+2019,Hungary,2,Toro Rosso,D. Kvyat,27.085
+2019,Hungary,2,Sauber,K. Raikkonen,27.107
+2019,Hungary,2,Williams,G. Russell,27.147
+2019,Hungary,2,Toro Rosso,A. Albon,27.191
+2019,Hungary,2,Sauber,A. Giovinazzi,27.276
+2019,Hungary,2,Renault,N. Hulkenberg,27.333
+2019,Hungary,2,Renault,D. Ricciardo,27.404
+2019,Hungary,2,Racing Point,S. Perez,27.478
+2019,Hungary,2,Racing Point,L. Stroll,27.723
+2019,Hungary,2,Williams,R. Kubica,27.896
+2019,Hungary,3,Red Bull,M. Verstappen,21.021
+2019,Hungary,3,Mercedes,L. Hamilton,21.053
+2019,Hungary,3,Mercedes,V. Bottas,21.1
+2019,Hungary,3,Red Bull,P. Gasly,21.169
+2019,Hungary,3,Ferrari,S. Vettel,21.36
+2019,Hungary,3,Ferrari,C. Leclerc,21.454
+2019,Hungary,3,McLaren,C. Sainz,21.56
+2019,Hungary,3,McLaren,L. Norris,21.565
+2019,Hungary,3,Sauber,K. Raikkonen,21.571
+2019,Hungary,3,Haas,R. Grosjean,21.66
+2019,Hungary,3,Renault,N. Hulkenberg,21.663
+2019,Hungary,3,Haas,K. Magnussen,21.756
+2019,Hungary,3,Toro Rosso,A. Albon,21.796
+2019,Hungary,3,Toro Rosso,D. Kvyat,21.843
+2019,Hungary,3,Sauber,A. Giovinazzi,21.849
+2019,Hungary,3,Racing Point,S. Perez,21.957
+2019,Hungary,3,Renault,D. Ricciardo,21.962
+2019,Hungary,3,Williams,G. Russell,22.057
+2019,Hungary,3,Racing Point,L. Stroll,22.1
+2019,Hungary,3,Williams,R. Kubica,22.39
+2019,Italy,1,Ferrari,C. Leclerc,26.469
+2019,Italy,1,Ferrari,S. Vettel,26.565
+2019,Italy,1,Renault,D. Ricciardo,26.589
+2019,Italy,1,Racing Point,L. Stroll,26.652
+2019,Italy,1,Renault,N. Hulkenberg,26.676
+2019,Italy,1,Mercedes,L. Hamilton,26.702
+2019,Italy,1,Sauber,K. Raikkonen,26.702
+2019,Italy,1,Sauber,A. Giovinazzi,26.714
+2019,Italy,1,Red Bull,A. Albon,26.743
+2019,Italy,1,Haas,K. Magnussen,26.77
+2019,Italy,1,Mercedes,V. Bottas,26.795
+2019,Italy,1,McLaren,C. Sainz,26.807
+2019,Italy,1,Haas,R. Grosjean,26.858
+2019,Italy,1,McLaren,L. Norris,26.965
+2019,Italy,1,Racing Point,S. Perez,26.992
+2019,Italy,1,Toro Rosso,D. Kvyat,27.022
+2019,Italy,1,Toro Rosso,P. Gasly,27.05
+2019,Italy,1,Williams,G. Russell,27.313
+2019,Italy,1,Williams,R. Kubica,27.366
+2019,Italy,1,Red Bull,M. Verstappen,29.06
+2019,Italy,2,Mercedes,V. Bottas,26.152
+2019,Italy,2,Mercedes,L. Hamilton,26.203
+2019,Italy,2,Ferrari,S. Vettel,26.33
+2019,Italy,2,Ferrari,C. Leclerc,26.412
+2019,Italy,2,Red Bull,A. Albon,26.499
+2019,Italy,2,Toro Rosso,P. Gasly,26.507
+2019,Italy,2,Renault,D. Ricciardo,26.592
+2019,Italy,2,Renault,N. Hulkenberg,26.67
+2019,Italy,2,Toro Rosso,D. Kvyat,26.736
+2019,Italy,2,McLaren,C. Sainz,26.746
+2019,Italy,2,Sauber,K. Raikkonen,26.885
+2019,Italy,2,McLaren,L. Norris,26.895
+2019,Italy,2,Sauber,A. Giovinazzi,26.961
+2019,Italy,2,Haas,K. Magnussen,26.987
+2019,Italy,2,Haas,R. Grosjean,27.077
+2019,Italy,2,Racing Point,L. Stroll,27.078
+2019,Italy,2,Williams,G. Russell,27.198
+2019,Italy,2,Williams,R. Kubica,27.421
+2019,Italy,2,Racing Point,S. Perez,27.431
+2019,Italy,2,Red Bull,M. Verstappen,36.435
+2019,Italy,3,Mercedes,L. Hamilton,26.264
+2019,Italy,3,Red Bull,A. Albon,26.391
+2019,Italy,3,Ferrari,S. Vettel,26.393
+2019,Italy,3,Mercedes,V. Bottas,26.407
+2019,Italy,3,Ferrari,C. Leclerc,26.426
+2019,Italy,3,Renault,D. Ricciardo,26.573
+2019,Italy,3,McLaren,C. Sainz,26.58
+2019,Italy,3,Sauber,K. Raikkonen,26.614
+2019,Italy,3,Renault,N. Hulkenberg,26.629
+2019,Italy,3,Toro Rosso,D. Kvyat,26.637
+2019,Italy,3,Racing Point,L. Stroll,26.673
+2019,Italy,3,Haas,K. Magnussen,26.738
+2019,Italy,3,Sauber,A. Giovinazzi,26.758
+2019,Italy,3,McLaren,L. Norris,26.786
+2019,Italy,3,Toro Rosso,P. Gasly,26.807
+2019,Italy,3,Haas,R. Grosjean,26.849
+2019,Italy,3,Racing Point,S. Perez,26.868
+2019,Italy,3,Williams,G. Russell,27.252
+2019,Italy,3,Williams,R. Kubica,27.569
+2019,Italy,3,Red Bull,M. Verstappen,31.98
+2019,Japan,1,Williams,R. Kubica,0
+2019,Japan,1,Ferrari,S. Vettel,30.256
+2019,Japan,1,Ferrari,C. Leclerc,30.366
+2019,Japan,1,Red Bull,M. Verstappen,30.441
+2019,Japan,1,Mercedes,V. Bottas,30.462
+2019,Japan,1,Mercedes,L. Hamilton,30.483
+2019,Japan,1,Red Bull,A. Albon,30.545
+2019,Japan,1,McLaren,L. Norris,30.631
+2019,Japan,1,McLaren,C. Sainz,30.694
+2019,Japan,1,Toro Rosso,P. Gasly,30.87
+2019,Japan,1,Haas,R. Grosjean,30.871
+2019,Japan,1,Sauber,A. Giovinazzi,31.015
+2019,Japan,1,Toro Rosso,D. Kvyat,31.132
+2019,Japan,1,Sauber,K. Raikkonen,31.138
+2019,Japan,1,Haas,K. Magnussen,31.236
+2019,Japan,1,Racing Point,L. Stroll,31.257
+2019,Japan,1,Renault,N. Hulkenberg,31.281
+2019,Japan,1,Racing Point,S. Perez,31.474
+2019,Japan,1,Williams,G. Russell,31.5
+2019,Japan,1,Renault,D. Ricciardo,31.655
+2019,Japan,2,Ferrari,C. Leclerc,39.346
+2019,Japan,2,Ferrari,S. Vettel,39.372
+2019,Japan,2,Mercedes,V. Bottas,39.502
+2019,Japan,2,Mercedes,L. Hamilton,39.524
+2019,Japan,2,Red Bull,A. Albon,39.634
+2019,Japan,2,Red Bull,M. Verstappen,39.8
+2019,Japan,2,McLaren,C. Sainz,40.073
+2019,Japan,2,McLaren,L. Norris,40.077
+2019,Japan,2,Toro Rosso,P. Gasly,40.12
+2019,Japan,2,Haas,R. Grosjean,40.38
+2019,Japan,2,Racing Point,L. Stroll,40.432
+2019,Japan,2,Toro Rosso,D. Kvyat,40.438
+2019,Japan,2,Sauber,K. Raikkonen,40.456
+2019,Japan,2,Renault,D. Ricciardo,40.456
+2019,Japan,2,Sauber,A. Giovinazzi,40.497
+2019,Japan,2,Renault,N. Hulkenberg,40.655
+2019,Japan,2,Haas,K. Magnussen,40.656
+2019,Japan,2,Williams,G. Russell,40.698
+2019,Japan,2,Racing Point,S. Perez,40.939
+2019,Japan,2,Williams,R. Kubica,47.866
+2019,Japan,3,Williams,R. Kubica,0
+2019,Japan,3,Mercedes,L. Hamilton,17.295
+2019,Japan,3,Ferrari,S. Vettel,17.318
+2019,Japan,3,Mercedes,V. Bottas,17.329
+2019,Japan,3,Ferrari,C. Leclerc,17.361
+2019,Japan,3,McLaren,C. Sainz,17.537
+2019,Japan,3,Red Bull,M. Verstappen,17.549
+2019,Japan,3,McLaren,L. Norris,17.592
+2019,Japan,3,Toro Rosso,P. Gasly,17.601
+2019,Japan,3,Red Bull,A. Albon,17.618
+2019,Japan,3,Racing Point,L. Stroll,17.656
+2019,Japan,3,Sauber,A. Giovinazzi,17.668
+2019,Japan,3,Sauber,K. Raikkonen,17.677
+2019,Japan,3,Haas,R. Grosjean,17.678
+2019,Japan,3,Renault,N. Hulkenberg,17.683
+2019,Japan,3,Renault,D. Ricciardo,17.69
+2019,Japan,3,Racing Point,S. Perez,17.706
+2019,Japan,3,Toro Rosso,D. Kvyat,17.801
+2019,Japan,3,Williams,G. Russell,18.159
+2019,Japan,3,Haas,K. Magnussen,26.875
+2019,Mexico,1,Ferrari,S. Vettel,26.528
+2019,Mexico,1,Ferrari,C. Leclerc,26.625
+2019,Mexico,1,Red Bull,M. Verstappen,26.732
+2019,Mexico,1,Mercedes,V. Bottas,26.923
+2019,Mexico,1,Red Bull,A. Albon,26.96
+2019,Mexico,1,Mercedes,L. Hamilton,26.965
+2019,Mexico,1,McLaren,C. Sainz,27.086
+2019,Mexico,1,Toro Rosso,P. Gasly,27.12
+2019,Mexico,1,McLaren,L. Norris,27.173
+2019,Mexico,1,Renault,D. Ricciardo,27.235
+2019,Mexico,1,Renault,N. Hulkenberg,27.249
+2019,Mexico,1,Sauber,K. Raikkonen,27.255
+2019,Mexico,1,Racing Point,L. Stroll,27.263
+2019,Mexico,1,Racing Point,S. Perez,27.264
+2019,Mexico,1,Sauber,A. Giovinazzi,27.274
+2019,Mexico,1,Toro Rosso,D. Kvyat,27.284
+2019,Mexico,1,Haas,K. Magnussen,27.404
+2019,Mexico,1,Haas,R. Grosjean,27.58
+2019,Mexico,1,Williams,G. Russell,27.69
+2019,Mexico,1,Williams,R. Kubica,27.811
+2019,Mexico,2,Red Bull,M. Verstappen,28.586
+2019,Mexico,2,Mercedes,L. Hamilton,28.611
+2019,Mexico,2,Mercedes,V. Bottas,28.664
+2019,Mexico,2,Ferrari,C. Leclerc,28.787
+2019,Mexico,2,Ferrari,S. Vettel,28.789
+2019,Mexico,2,Red Bull,A. Albon,28.82
+2019,Mexico,2,McLaren,C. Sainz,29.056
+2019,Mexico,2,McLaren,L. Norris,29.212
+2019,Mexico,2,Toro Rosso,D. Kvyat,29.233
+2019,Mexico,2,Toro Rosso,P. Gasly,29.486
+2019,Mexico,2,Racing Point,S. Perez,29.529
+2019,Mexico,2,Renault,N. Hulkenberg,29.593
+2019,Mexico,2,Renault,D. Ricciardo,29.658
+2019,Mexico,2,Sauber,K. Raikkonen,29.723
+2019,Mexico,2,Sauber,A. Giovinazzi,29.791
+2019,Mexico,2,Racing Point,L. Stroll,30.15
+2019,Mexico,2,Williams,G. Russell,30.438
+2019,Mexico,2,Haas,R. Grosjean,30.491
+2019,Mexico,2,Haas,K. Magnussen,30.508
+2019,Mexico,2,Williams,R. Kubica,31.501
+2019,Mexico,3,Red Bull,M. Verstappen,19.44
+2019,Mexico,3,Mercedes,V. Bottas,19.478
+2019,Mexico,3,Mercedes,L. Hamilton,19.486
+2019,Mexico,3,Ferrari,C. Leclerc,19.523
+2019,Mexico,3,Red Bull,A. Albon,19.537
+2019,Mexico,3,Ferrari,S. Vettel,19.675
+2019,Mexico,3,McLaren,C. Sainz,19.872
+2019,Mexico,3,McLaren,L. Norris,19.889
+2019,Mexico,3,Racing Point,S. Perez,19.894
+2019,Mexico,3,Toro Rosso,D. Kvyat,19.9
+2019,Mexico,3,Toro Rosso,P. Gasly,19.94
+2019,Mexico,3,Renault,N. Hulkenberg,19.959
+2019,Mexico,3,Renault,D. Ricciardo,19.966
+2019,Mexico,3,Sauber,K. Raikkonen,19.989
+2019,Mexico,3,Sauber,A. Giovinazzi,20.093
+2019,Mexico,3,Racing Point,L. Stroll,20.343
+2019,Mexico,3,Haas,R. Grosjean,20.478
+2019,Mexico,3,Haas,K. Magnussen,20.524
+2019,Mexico,3,Williams,G. Russell,20.621
+2019,Mexico,3,Williams,R. Kubica,20.743
+2019,Monaco,1,Mercedes,L. Hamilton,18.28
+2019,Monaco,1,Mercedes,V. Bottas,18.354
+2019,Monaco,1,Ferrari,S. Vettel,18.466
+2019,Monaco,1,Red Bull,M. Verstappen,18.511
+2019,Monaco,1,Red Bull,P. Gasly,18.658
+2019,Monaco,1,McLaren,C. Sainz,18.671
+2019,Monaco,1,Haas,K. Magnussen,18.693
+2019,Monaco,1,Toro Rosso,D. Kvyat,18.746
+2019,Monaco,1,Renault,D. Ricciardo,18.769
+2019,Monaco,1,Sauber,A. Giovinazzi,18.782
+2019,Monaco,1,Renault,N. Hulkenberg,18.785
+2019,Monaco,1,Toro Rosso,A. Albon,18.791
+2019,Monaco,1,Haas,R. Grosjean,18.874
+2019,Monaco,1,McLaren,L. Norris,18.882
+2019,Monaco,1,Sauber,K. Raikkonen,18.901
+2019,Monaco,1,Ferrari,C. Leclerc,18.903
+2019,Monaco,1,Racing Point,S. Perez,18.945
+2019,Monaco,1,Racing Point,L. Stroll,19.124
+2019,Monaco,1,Williams,G. Russell,19.257
+2019,Monaco,1,Williams,R. Kubica,19.267
+2019,Monaco,2,Mercedes,V. Bottas,33.026
+2019,Monaco,2,Mercedes,L. Hamilton,33.096
+2019,Monaco,2,Red Bull,M. Verstappen,33.24
+2019,Monaco,2,Red Bull,P. Gasly,33.37
+2019,Monaco,2,Haas,K. Magnussen,33.425
+2019,Monaco,2,Ferrari,S. Vettel,33.444
+2019,Monaco,2,Toro Rosso,D. Kvyat,33.47
+2019,Monaco,2,Renault,D. Ricciardo,33.525
+2019,Monaco,2,Haas,R. Grosjean,33.67
+2019,Monaco,2,McLaren,L. Norris,33.699
+2019,Monaco,2,Toro Rosso,A. Albon,33.714
+2019,Monaco,2,McLaren,C. Sainz,33.716
+2019,Monaco,2,Ferrari,C. Leclerc,33.763
+2019,Monaco,2,Sauber,K. Raikkonen,33.789
+2019,Monaco,2,Renault,N. Hulkenberg,33.824
+2019,Monaco,2,Sauber,A. Giovinazzi,33.844
+2019,Monaco,2,Racing Point,S. Perez,34.039
+2019,Monaco,2,Racing Point,L. Stroll,34.199
+2019,Monaco,2,Williams,R. Kubica,34.548
+2019,Monaco,2,Williams,G. Russell,34.622
+2019,Monaco,3,Mercedes,L. Hamilton,18.667
+2019,Monaco,3,Mercedes,V. Bottas,18.685
+2019,Monaco,3,Red Bull,M. Verstappen,18.789
+2019,Monaco,3,Renault,D. Ricciardo,18.863
+2019,Monaco,3,Red Bull,P. Gasly,18.892
+2019,Monaco,3,Toro Rosso,A. Albon,18.906
+2019,Monaco,3,Toro Rosso,D. Kvyat,18.933
+2019,Monaco,3,Haas,K. Magnussen,18.968
+2019,Monaco,3,Ferrari,S. Vettel,18.972
+2019,Monaco,3,McLaren,C. Sainz,19.03
+2019,Monaco,3,Renault,N. Hulkenberg,19.061
+2019,Monaco,3,McLaren,L. Norris,19.093
+2019,Monaco,3,Ferrari,C. Leclerc,19.118
+2019,Monaco,3,Sauber,K. Raikkonen,19.121
+2019,Monaco,3,Haas,R. Grosjean,19.202
+2019,Monaco,3,Racing Point,S. Perez,19.216
+2019,Monaco,3,Sauber,A. Giovinazzi,19.238
+2019,Monaco,3,Racing Point,L. Stroll,19.427
+2019,Monaco,3,Williams,G. Russell,19.585
+2019,Monaco,3,Williams,R. Kubica,19.841
+2019,Russia,1,Ferrari,C. Leclerc,33.333
+2019,Russia,1,Ferrari,S. Vettel,33.433
+2019,Russia,1,Red Bull,M. Verstappen,33.68
+2019,Russia,1,Mercedes,V. Bottas,33.749
+2019,Russia,1,Mercedes,L. Hamilton,33.807
+2019,Russia,1,Haas,K. Magnussen,33.924
+2019,Russia,1,Haas,R. Grosjean,33.986
+2019,Russia,1,Racing Point,S. Perez,34.064
+2019,Russia,1,Renault,N. Hulkenberg,34.072
+2019,Russia,1,Racing Point,L. Stroll,34.073
+2019,Russia,1,McLaren,L. Norris,34.099
+2019,Russia,1,Sauber,A. Giovinazzi,34.115
+2019,Russia,1,Renault,D. Ricciardo,34.129
+2019,Russia,1,McLaren,C. Sainz,34.138
+2019,Russia,1,Sauber,K. Raikkonen,34.173
+2019,Russia,1,Red Bull,A. Albon,34.223
+2019,Russia,1,Toro Rosso,P. Gasly,34.351
+2019,Russia,1,Williams,G. Russell,34.423
+2019,Russia,1,Williams,R. Kubica,34.886
+2019,Russia,2,Ferrari,C. Leclerc,31.319
+2019,Russia,2,Ferrari,S. Vettel,31.506
+2019,Russia,2,Mercedes,L. Hamilton,31.518
+2019,Russia,2,Mercedes,V. Bottas,31.559
+2019,Russia,2,Red Bull,M. Verstappen,31.641
+2019,Russia,2,McLaren,C. Sainz,31.815
+2019,Russia,2,McLaren,L. Norris,31.909
+2019,Russia,2,Renault,N. Hulkenberg,31.984
+2019,Russia,2,Haas,K. Magnussen,32.065
+2019,Russia,2,Red Bull,A. Albon,32.098
+2019,Russia,2,Haas,R. Grosjean,32.099
+2019,Russia,2,Toro Rosso,P. Gasly,32.123
+2019,Russia,2,Renault,D. Ricciardo,32.17
+2019,Russia,2,Racing Point,S. Perez,32.25
+2019,Russia,2,Sauber,A. Giovinazzi,32.266
+2019,Russia,2,Racing Point,L. Stroll,32.276
+2019,Russia,2,Sauber,K. Raikkonen,32.365
+2019,Russia,2,Williams,G. Russell,32.681
+2019,Russia,2,Williams,R. Kubica,33.087
+2019,Russia,3,Mercedes,L. Hamilton,26.705
+2019,Russia,3,Ferrari,C. Leclerc,26.939
+2019,Russia,3,Red Bull,M. Verstappen,26.989
+2019,Russia,3,Ferrari,S. Vettel,27.056
+2019,Russia,3,Renault,N. Hulkenberg,27.183
+2019,Russia,3,Mercedes,V. Bottas,27.191
+2019,Russia,3,McLaren,C. Sainz,27.269
+2019,Russia,3,McLaren,L. Norris,27.293
+2019,Russia,3,Renault,D. Ricciardo,27.362
+2019,Russia,3,Haas,R. Grosjean,27.409
+2019,Russia,3,Toro Rosso,P. Gasly,27.476
+2019,Russia,3,Racing Point,S. Perez,27.592
+2019,Russia,3,Sauber,A. Giovinazzi,27.656
+2019,Russia,3,Racing Point,L. Stroll,27.729
+2019,Russia,3,Haas,K. Magnussen,27.768
+2019,Russia,3,Sauber,K. Raikkonen,28.052
+2019,Russia,3,Williams,G. Russell,28.252
+2019,Russia,3,Williams,R. Kubica,28.45
+2019,Russia,3,Red Bull,A. Albon,32.506
+2019,Singapore,1,Ferrari,C. Leclerc,26.211
+2019,Singapore,1,Ferrari,S. Vettel,26.334
+2019,Singapore,1,Mercedes,L. Hamilton,26.442
+2019,Singapore,1,Mercedes,V. Bottas,26.5
+2019,Singapore,1,Red Bull,M. Verstappen,26.664
+2019,Singapore,1,McLaren,C. Sainz,26.707
+2019,Singapore,1,McLaren,L. Norris,26.756
+2019,Singapore,1,Red Bull,A. Albon,26.801
+2019,Singapore,1,Renault,D. Ricciardo,26.91
+2019,Singapore,1,Renault,N. Hulkenberg,26.937
+2019,Singapore,1,Sauber,A. Giovinazzi,26.959
+2019,Singapore,1,Racing Point,S. Perez,27.036
+2019,Singapore,1,Haas,K. Magnussen,27.057
+2019,Singapore,1,Sauber,K. Raikkonen,27.118
+2019,Singapore,1,Toro Rosso,P. Gasly,27.201
+2019,Singapore,1,Racing Point,L. Stroll,27.23
+2019,Singapore,1,Haas,R. Grosjean,27.256
+2019,Singapore,1,Toro Rosso,D. Kvyat,27.51
+2019,Singapore,1,Williams,G. Russell,27.513
+2019,Singapore,1,Williams,R. Kubica,27.593
+2019,Singapore,2,Ferrari,S. Vettel,37.089
+2019,Singapore,2,Ferrari,C. Leclerc,37.127
+2019,Singapore,2,Mercedes,L. Hamilton,37.132
+2019,Singapore,2,Red Bull,M. Verstappen,37.174
+2019,Singapore,2,Mercedes,V. Bottas,37.294
+2019,Singapore,2,Red Bull,A. Albon,37.513
+2019,Singapore,2,McLaren,C. Sainz,37.557
+2019,Singapore,2,McLaren,L. Norris,37.617
+2019,Singapore,2,Renault,D. Ricciardo,37.637
+2019,Singapore,2,Renault,N. Hulkenberg,37.723
+2019,Singapore,2,Toro Rosso,P. Gasly,37.876
+2019,Singapore,2,Sauber,K. Raikkonen,37.911
+2019,Singapore,2,Sauber,A. Giovinazzi,37.967
+2019,Singapore,2,Racing Point,S. Perez,38.021
+2019,Singapore,2,Haas,K. Magnussen,38.392
+2019,Singapore,2,Racing Point,L. Stroll,38.477
+2019,Singapore,2,Toro Rosso,D. Kvyat,38.604
+2019,Singapore,2,Haas,R. Grosjean,38.647
+2019,Singapore,2,Williams,G. Russell,38.957
+2019,Singapore,2,Williams,R. Kubica,39.054
+2019,Singapore,3,Mercedes,L. Hamilton,32.834
+2019,Singapore,3,Red Bull,M. Verstappen,32.859
+2019,Singapore,3,Ferrari,C. Leclerc,32.879
+2019,Singapore,3,Mercedes,V. Bottas,32.988
+2019,Singapore,3,Ferrari,S. Vettel,33.014
+2019,Singapore,3,Red Bull,A. Albon,33.097
+2019,Singapore,3,McLaren,L. Norris,33.199
+2019,Singapore,3,Toro Rosso,P. Gasly,33.434
+2019,Singapore,3,McLaren,C. Sainz,33.486
+2019,Singapore,3,Racing Point,S. Perez,33.515
+2019,Singapore,3,Renault,D. Ricciardo,33.548
+2019,Singapore,3,Renault,N. Hulkenberg,33.604
+2019,Singapore,3,Sauber,A. Giovinazzi,33.75
+2019,Singapore,3,Toro Rosso,D. Kvyat,33.809
+2019,Singapore,3,Sauber,K. Raikkonen,33.822
+2019,Singapore,3,Haas,K. Magnussen,33.998
+2019,Singapore,3,Racing Point,L. Stroll,34.123
+2019,Singapore,3,Haas,R. Grosjean,34.235
+2019,Singapore,3,Williams,G. Russell,34.386
+2019,Singapore,3,Williams,R. Kubica,34.539
+2019,Spain,1,Ferrari,S. Vettel,21.284
+2019,Spain,1,Mercedes,V. Bottas,21.488
+2019,Spain,1,Ferrari,C. Leclerc,21.537
+2019,Spain,1,Mercedes,L. Hamilton,21.56
+2019,Spain,1,McLaren,C. Sainz,21.634
+2019,Spain,1,Haas,R. Grosjean,21.664
+2019,Spain,1,Red Bull,M. Verstappen,21.685
+2019,Spain,1,Sauber,K. Raikkonen,21.705
+2019,Spain,1,Renault,D. Ricciardo,21.713
+2019,Spain,1,McLaren,L. Norris,21.732
+2019,Spain,1,Toro Rosso,A. Albon,21.796
+2019,Spain,1,Toro Rosso,D. Kvyat,21.802
+2019,Spain,1,Haas,K. Magnussen,21.833
+2019,Spain,1,Red Bull,P. Gasly,21.833
+2019,Spain,1,Racing Point,L. Stroll,21.835
+2019,Spain,1,Sauber,A. Giovinazzi,21.852
+2019,Spain,1,Racing Point,S. Perez,21.886
+2019,Spain,1,Renault,N. Hulkenberg,21.979
+2019,Spain,1,Williams,G. Russell,22.113
+2019,Spain,1,Williams,R. Kubica,22.227
+2019,Spain,2,Mercedes,V. Bottas,28.04
+2019,Spain,2,Mercedes,L. Hamilton,28.116
+2019,Spain,2,Red Bull,M. Verstappen,28.274
+2019,Spain,2,Ferrari,S. Vettel,28.357
+2019,Spain,2,Ferrari,C. Leclerc,28.405
+2019,Spain,2,Red Bull,P. Gasly,28.429
+2019,Spain,2,Haas,K. Magnussen,28.438
+2019,Spain,2,Haas,R. Grosjean,28.448
+2019,Spain,2,Toro Rosso,D. Kvyat,28.701
+2019,Spain,2,McLaren,L. Norris,28.733
+2019,Spain,2,Renault,D. Ricciardo,28.761
+2019,Spain,2,McLaren,C. Sainz,28.791
+2019,Spain,2,Toro Rosso,A. Albon,28.801
+2019,Spain,2,Racing Point,S. Perez,28.908
+2019,Spain,2,Racing Point,L. Stroll,28.997
+2019,Spain,2,Sauber,K. Raikkonen,29.055
+2019,Spain,2,Renault,N. Hulkenberg,29.063
+2019,Spain,2,Sauber,A. Giovinazzi,29.097
+2019,Spain,2,Williams,G. Russell,29.4
+2019,Spain,2,Williams,R. Kubica,29.726
+2019,Spain,3,Mercedes,V. Bottas,25.878
+2019,Spain,3,Mercedes,L. Hamilton,26.112
+2019,Spain,3,Red Bull,M. Verstappen,26.322
+2019,Spain,3,Red Bull,P. Gasly,26.358
+2019,Spain,3,Ferrari,C. Leclerc,26.513
+2019,Spain,3,Ferrari,S. Vettel,26.611
+2019,Spain,3,Haas,K. Magnussen,26.612
+2019,Spain,3,Toro Rosso,D. Kvyat,26.702
+2019,Spain,3,Renault,D. Ricciardo,26.749
+2019,Spain,3,Haas,R. Grosjean,26.765
+2019,Spain,3,McLaren,L. Norris,26.811
+2019,Spain,3,Toro Rosso,A. Albon,26.848
+2019,Spain,3,Sauber,K. Raikkonen,26.973
+2019,Spain,3,Racing Point,S. Perez,27.015
+2019,Spain,3,Renault,N. Hulkenberg,27.118
+2019,Spain,3,McLaren,C. Sainz,27.128
+2019,Spain,3,Racing Point,L. Stroll,27.55
+2019,Spain,3,Sauber,A. Giovinazzi,27.559
+2019,Spain,3,Williams,G. Russell,27.559
+2019,Spain,3,Williams,R. Kubica,28.097
+2019,United-States,1,Ferrari,C. Leclerc,24.518
+2019,United-States,1,Ferrari,S. Vettel,24.611
+2019,United-States,1,Mercedes,L. Hamilton,24.632
+2019,United-States,1,Red Bull,M. Verstappen,24.646
+2019,United-States,1,Mercedes,V. Bottas,24.719
+2019,United-States,1,Red Bull,A. Albon,24.758
+2019,United-States,1,Haas,K. Magnussen,24.93
+2019,United-States,1,McLaren,L. Norris,24.945
+2019,United-States,1,McLaren,C. Sainz,24.974
+2019,United-States,1,Toro Rosso,P. Gasly,25.031
+2019,United-States,1,Sauber,K. Raikkonen,25.103
+2019,United-States,1,Renault,D. Ricciardo,25.111
+2019,United-States,1,Haas,R. Grosjean,25.117
+2019,United-States,1,Racing Point,L. Stroll,25.149
+2019,United-States,1,Toro Rosso,D. Kvyat,25.155
+2019,United-States,1,Sauber,A. Giovinazzi,25.264
+2019,United-States,1,Williams,G. Russell,25.359
+2019,United-States,1,Renault,N. Hulkenberg,25.38
+2019,United-States,1,Racing Point,S. Perez,25.659
+2019,United-States,1,Williams,R. Kubica,25.839
+2019,United-States,2,Mercedes,V. Bottas,36.718
+2019,United-States,2,Ferrari,S. Vettel,36.765
+2019,United-States,2,Mercedes,L. Hamilton,36.866
+2019,United-States,2,Ferrari,C. Leclerc,36.959
+2019,United-States,2,Red Bull,M. Verstappen,36.968
+2019,United-States,2,Red Bull,A. Albon,37.071
+2019,United-States,2,McLaren,C. Sainz,37.104
+2019,United-States,2,McLaren,L. Norris,37.195
+2019,United-States,2,Renault,D. Ricciardo,37.275
+2019,United-States,2,Toro Rosso,P. Gasly,37.282
+2019,United-States,2,Sauber,A. Giovinazzi,37.334
+2019,United-States,2,Toro Rosso,D. Kvyat,37.346
+2019,United-States,2,Haas,K. Magnussen,37.392
+2019,United-States,2,Renault,N. Hulkenberg,37.428
+2019,United-States,2,Racing Point,L. Stroll,37.457
+2019,United-States,2,Haas,R. Grosjean,37.622
+2019,United-States,2,Sauber,K. Raikkonen,37.8
+2019,United-States,2,Racing Point,S. Perez,38.011
+2019,United-States,2,Williams,G. Russell,38.088
+2019,United-States,2,Williams,R. Kubica,38.299
+2019,United-States,3,Red Bull,M. Verstappen,30.422
+2019,United-States,3,Mercedes,V. Bottas,30.553
+2019,United-States,3,Ferrari,C. Leclerc,30.574
+2019,United-States,3,Red Bull,A. Albon,30.609
+2019,United-States,3,Ferrari,S. Vettel,30.648
+2019,United-States,3,McLaren,C. Sainz,30.745
+2019,United-States,3,Mercedes,L. Hamilton,30.803
+2019,United-States,3,McLaren,L. Norris,30.868
+2019,United-States,3,Renault,D. Ricciardo,30.965
+2019,United-States,3,Renault,N. Hulkenberg,31.007
+2019,United-States,3,Toro Rosso,P. Gasly,31.074
+2019,United-States,3,Racing Point,L. Stroll,31.262
+2019,United-States,3,Toro Rosso,D. Kvyat,31.265
+2019,United-States,3,Haas,R. Grosjean,31.282
+2019,United-States,3,Haas,K. Magnussen,31.414
+2019,United-States,3,Sauber,K. Raikkonen,31.466
+2019,United-States,3,Sauber,A. Giovinazzi,31.628
+2019,United-States,3,Williams,R. Kubica,31.72
+2019,United-States,3,Williams,G. Russell,31.811
+2019,United-States,3,Racing Point,S. Perez,32.138
