@@ -1,0 +1,389 @@
+office,year,??????,?????,??????,??????,Offer??
+Beijing Office,Feb-18,37,1071,62,12,3
+Beijing Office,Mar-18,178,3121,297,139,51
+Beijing Office,Apr-18,107,2765,174,85,20
+Beijing Office,May-18,122,3780,228,101,23
+Beijing Office,Jun-18,102,3213,177,98,25
+Beijing Office,Jul-18,143,5231,280,125,26
+Beijing Office,Aug-18,129,4727,360,154,41
+Beijing Office,Sep-18,121,3126,245,107,26
+Beijing Office,Oct-18,113,3422,263,115,17
+Beijing Office,Nov-18,198,5079,478,189,29
+Beijing Office,Dec-18,88,2288,196,80,25
+Beijing Office,Jan-19,184,5714,431,151,30
+Beijing Office,Feb-19,118,4009,345,133,31
+Beijing Office,Mar-19,169,5659,606,194,32
+Beijing Office,Apr-19,254,6565,717,260,35
+Beijing Office,May-19,187,4573,439,146,27
+Beijing Office,Jun-19,166,5122,486,143,30
+Beijing Office,Jul-19,213,6567,545,203,41
+Beijing Office,Aug-19,217,5610,542,208,40
+Beijing Office,Sep-19,217,8227,460,159,26
+Beijing Office,Oct-19,182,5236,487,171,26
+Beijing Office,Nov-19,195,6231,634,245,48
+Beijing Office,Dec-19,164,4282,440,159,31
+Beijing Office,Jan-20,179,4614,483,170,31
+Beijing Office,Feb-20,400,12378,1460,454,55
+Beijing Office,Mar-20,264,9291,874,303,46
+Beijing Office,Apr-20,260,8004,833,302,44
+Beijing Office,May-20,238,7563,599,229,49
+Beijing Office,Jun-20,245,6049,530,204,31
+Beijing Office,Jul-20,268,7445,731,258,50
+Beijing Office,Aug-20,278,6511,675,249,43
+Beijing Office,Sep-20,209,4995,428,158,31
+Beijing Office,Oct-20,222,5869,442,152,37
+Beijing Office,Nov-20,315,12289,644,258,52
+Beijing Office,Dec-20,290,8767,447,180,42
+Beijing Office,Jan-21,419,11559,740,276,58
+Beijing Office,Feb-21,226,5298,456,198,40
+Beijing Office,Mar-21,430,8325,689,295,68
+Beijing Office,Apr-21,328,7449,563,224,37
+Beijing Office,May-21,318,5057,343,146,23
+Chengdu Office,Nov-18,6,420,49,25,0
+Chengdu Office,Dec-18,2,5,5,1,0
+Chengdu Office,Jan-19,5,78,9,2,0
+Chengdu Office,Feb-19,46,730,191,51,19
+Chengdu Office,Mar-19,74,1363,290,89,14
+Chengdu Office,Apr-19,57,1382,222,47,9
+Chengdu Office,May-19,74,1973,338,84,24
+Chengdu Office,Jun-19,32,914,149,40,9
+Chengdu Office,Jul-19,86,3003,335,118,28
+Chengdu Office,Aug-19,81,1709,272,94,14
+Chengdu Office,Sep-19,49,1131,137,32,8
+Chengdu Office,Oct-19,43,1197,230,97,8
+Chengdu Office,Nov-19,49,811,155,64,4
+Chengdu Office,Dec-19,47,2483,243,100,19
+Chengdu Office,Jan-20,79,2341,225,98,12
+Chengdu Office,Feb-20,128,4749,429,133,19
+Chengdu Office,Mar-20,129,4273,378,137,12
+Chengdu Office,Apr-20,94,2876,231,84,13
+Chengdu Office,May-20,119,2859,323,145,8
+Chengdu Office,Jun-20,89,2463,230,83,15
+Chengdu Office,Jul-20,109,3589,329,128,23
+Chengdu Office,Aug-20,80,2722,376,104,26
+Chengdu Office,Sep-20,86,1847,252,113,22
+Chengdu Office,Oct-20,93,2273,265,107,19
+Chengdu Office,Nov-20,116,3398,331,115,22
+Chengdu Office,Dec-20,160,3683,399,148,37
+Chengdu Office,Jan-21,196,4556,597,242,27
+Chengdu Office,Feb-21,157,3510,460,189,32
+Chengdu Office,Mar-21,271,5857,686,282,45
+Chengdu Office,Apr-21,204,3937,547,226,32
+Chengdu Office,May-21,170,2152,262,87,11
+Guangzhou Office - A,Feb-18,14,249,35,20,4
+Guangzhou Office - A,Mar-18,33,1129,107,52,7
+Guangzhou Office - A,Apr-18,26,340,51,31,4
+Guangzhou Office - A,May-18,26,645,116,60,8
+Guangzhou Office - A,Jun-18,13,360,66,46,2
+Guangzhou Office - A,Jul-18,13,269,41,20,4
+Guangzhou Office - A,Aug-18,26,455,74,31,3
+Guangzhou Office - A,Sep-18,9,374,48,27,2
+Guangzhou Office - A,Oct-18,17,548,82,46,1
+Guangzhou Office - A,Nov-18,12,246,43,28,1
+Guangzhou Office - A,Dec-18,17,345,29,17,4
+Guangzhou Office - A,Jan-19,14,219,51,23,4
+Guangzhou Office - A,Feb-19,12,299,44,24,1
+Guangzhou Office - A,Mar-19,24,659,88,46,4
+Guangzhou Office - A,Apr-19,26,1514,94,23,3
+Guangzhou Office - A,May-19,27,1071,103,45,2
+Guangzhou Office - A,Jun-19,25,1398,111,43,4
+Guangzhou Office - A,Jul-19,26,1075,111,42,4
+Guangzhou Office - A,Aug-19,23,1042,89,48,3
+Guangzhou Office - A,Sep-19,20,913,55,25,2
+Guangzhou Office - A,Oct-19,18,564,55,17,3
+Guangzhou Office - A,Nov-19,13,1143,101,26,1
+Guangzhou Office - A,Dec-19,18,1345,114,44,4
+Guangzhou Office - A,Jan-20,12,491,36,10,0
+Guangzhou Office - A,Feb-20,22,1556,100,37,3
+Guangzhou Office - A,Mar-20,17,1193,97,24,5
+Guangzhou Office - A,Apr-20,20,1299,81,30,1
+Guangzhou Office - A,May-20,19,1781,88,26,2
+Guangzhou Office - A,Jun-20,23,1622,66,24,3
+Guangzhou Office - A,Jul-20,24,955,99,29,2
+Guangzhou Office - A,Aug-20,17,897,59,32,5
+Guangzhou Office - A,Sep-20,26,1522,76,24,3
+Guangzhou Office - A,Oct-20,14,947,60,21,2
+Guangzhou Office - A,Nov-20,23,1751,112,31,4
+Guangzhou Office - A,Dec-20,20,1794,64,28,3
+Guangzhou Office - A,Jan-21,25,1103,59,17,4
+Guangzhou Office - A,Feb-21,11,353,24,12,2
+Guangzhou Office - A,Mar-21,28,1072,72,28,4
+Guangzhou Office - A,Apr-21,23,650,37,11,1
+Guangzhou Office - A,May-21,24,296,29,10,1
+Guangzhou Office - B,Dec-20,24,299,79,33,4
+Guangzhou Office - B,Jan-21,9,240,38,6,1
+Guangzhou Office - B,Feb-21,8,165,23,6,2
+Guangzhou Office - B,Mar-21,33,317,62,24,4
+Guangzhou Office - B,Apr-21,40,329,75,36,7
+Guangzhou Office - B,May-21,34,247,54,22,1
+Hangzhou Office,Nov-17,6,164,41,42,6
+Hangzhou Office,Dec-17,1,62,5,1,0
+Hangzhou Office,Jan-18,8,169,16,9,0
+Hangzhou Office,Mar-18,8,376,39,28,3
+Hangzhou Office,Apr-18,6,186,13,10,3
+Hangzhou Office,May-18,1,20,0,0,0
+Hangzhou Office,Jun-18,3,63,4,0,0
+Hangzhou Office,Jul-18,9,568,48,33,3
+Hangzhou Office,Aug-18,4,110,2,0,0
+Hangzhou Office,Sep-18,2,299,2,1,0
+Hangzhou Office,Oct-18,3,26,6,6,0
+Hangzhou Office,Nov-18,1,56,12,7,0
+Hangzhou Office,Dec-18,5,465,36,18,3
+Hangzhou Office,Jan-19,1,6,0,0,0
+Hangzhou Office,Feb-19,3,85,12,4,0
+Hangzhou Office,Mar-19,8,149,11,3,0
+Hangzhou Office,Apr-19,5,223,26,21,1
+Hangzhou Office,May-19,5,184,17,11,2
+Hangzhou Office,Jun-19,6,421,36,18,2
+Hangzhou Office,Jul-19,3,102,4,1,0
+Hangzhou Office,Aug-19,3,86,13,9,3
+Hangzhou Office,Sep-19,4,191,36,17,3
+Hangzhou Office,Oct-19,5,395,42,24,5
+Hangzhou Office,Nov-19,3,7,2,0,0
+Hangzhou Office,Dec-19,2,141,36,26,3
+Hangzhou Office,Jan-20,1,252,46,24,3
+Hangzhou Office,Feb-20,3,16,5,1,0
+Hangzhou Office,Mar-20,2,142,18,17,1
+Hangzhou Office,Apr-20,4,53,13,8,4
+Hangzhou Office,May-20,3,31,4,3,1
+Hangzhou Office,Jun-20,1,1,1,0,0
+Hangzhou Office,Jul-20,9,1084,49,22,1
+Hangzhou Office,Aug-20,11,458,32,13,1
+Hangzhou Office,Sep-20,8,252,65,41,2
+Hangzhou Office,Oct-20,3,20,6,4,1
+Hangzhou Office,Dec-20,9,154,27,22,1
+Hangzhou Office,Jan-21,12,80,25,19,5
+Hangzhou Office,Feb-21,15,90,22,11,4
+Hangzhou Office,Mar-21,14,210,48,28,12
+Hangzhou Office,Apr-21,14,50,17,8,7
+Hangzhou Office,May-21,12,54,12,5,6
+Nanjing Office,Sep-20,1,34,11,5,0
+Nanjing Office,Oct-20,1,33,11,4,1
+Nanjing Office,Nov-20,28,581,74,18,2
+Nanjing Office,Dec-20,35,1592,200,56,10
+Nanjing Office,Jan-21,30,904,96,45,4
+Nanjing Office,Feb-21,10,587,48,18,2
+Nanjing Office,Mar-21,18,651,70,24,1
+Nanjing Office,Apr-21,20,643,144,57,5
+Nanjing Office,May-21,17,260,41,9,0
+Qingdao Office,Sep-19,9,101,20,5,0
+Qingdao Office,Oct-19,37,586,109,8,1
+Qingdao Office,Nov-19,32,1182,146,38,7
+Qingdao Office,Dec-19,23,504,85,17,1
+Qingdao Office,Jan-20,40,1236,157,56,12
+Qingdao Office,Feb-20,47,1588,157,43,11
+Qingdao Office,Mar-20,41,1102,126,38,9
+Qingdao Office,Apr-20,60,2067,183,43,8
+Qingdao Office,May-20,37,1292,101,42,3
+Qingdao Office,Jun-20,40,2623,177,38,1
+Qingdao Office,Jul-20,89,5234,181,43,9
+Qingdao Office,Aug-20,37,3237,112,16,2
+Qingdao Office,Sep-20,26,1373,69,25,7
+Qingdao Office,Oct-20,31,3953,89,30,5
+Qingdao Office,Nov-20,31,1480,104,35,4
+Qingdao Office,Dec-20,26,903,70,30,5
+Qingdao Office,Jan-21,50,1325,161,73,11
+Qingdao Office,Feb-21,26,1201,83,24,4
+Qingdao Office,Mar-21,50,1220,110,28,3
+Qingdao Office,Apr-21,37,964,78,29,4
+Qingdao Office,May-21,46,1032,72,16,0
+Shanghai Office - A -48,Feb-18,3,66,8,1,0
+Shanghai Office - A -48,Mar-18,6,146,30,9,1
+Shanghai Office - A -48,Apr-18,18,408,54,23,3
+Shanghai Office - A -48,May-18,33,846,68,38,6
+Shanghai Office - A -48,Jun-18,23,496,46,13,0
+Shanghai Office - A -48,Jul-18,36,1703,62,33,7
+Shanghai Office - A -48,Aug-18,49,1238,109,56,13
+Shanghai Office - A -48,Sep-18,44,745,44,20,6
+Shanghai Office - A -48,Oct-18,37,762,66,37,9
+Shanghai Office - A -48,Nov-18,54,1576,93,37,16
+Shanghai Office - A -48,Dec-18,71,1137,145,60,15
+Shanghai Office - A -48,Jan-19,99,1292,191,62,10
+Shanghai Office - A -48,Feb-19,53,1167,136,41,8
+Shanghai Office - A -48,Mar-19,193,2894,709,206,34
+Shanghai Office - A -48,Apr-19,126,3325,428,101,25
+Shanghai Office - A -48,May-19,110,2913,339,114,18
+Shanghai Office - A -48,Jun-19,130,2134,449,129,29
+Shanghai Office - A -48,Jul-19,156,5350,539,150,24
+Shanghai Office - A -48,Aug-19,131,3188,444,102,20
+Shanghai Office - A -48,Sep-19,100,8167,326,86,18
+Shanghai Office - A -48,Oct-19,117,3542,497,104,20
+Shanghai Office - A -48,Nov-19,138,3197,560,162,34
+Shanghai Office - A -48,Dec-19,117,3446,418,96,18
+Shanghai Office - A -48,Jan-20,78,2513,249,76,12
+Shanghai Office - A -48,Feb-20,176,3528,674,147,28
+Shanghai Office - A -48,Mar-20,167,5081,679,114,29
+Shanghai Office - A -48,Apr-20,136,8561,491,106,31
+Shanghai Office - A -48,May-20,125,2628,432,78,30
+Shanghai Office - A -48,Jun-20,125,3047,392,71,14
+Shanghai Office - A -48,Jul-20,153,8652,563,92,22
+Shanghai Office - A -48,Aug-20,161,5591,494,82,27
+Shanghai Office - A -48,Sep-20,158,4656,545,98,35
+Shanghai Office - A -48,Oct-20,129,5209,412,81,28
+Shanghai Office - A -48,Nov-20,140,4225,392,97,34
+Shanghai Office - A -48,Dec-20,161,5769,433,97,36
+Shanghai Office - A -48,Jan-21,212,4781,728,180,49
+Shanghai Office - A -48,Feb-21,140,2749,532,149,25
+Shanghai Office - A -48,Mar-21,251,3858,616,164,29
+Shanghai Office - A -48,Apr-21,265,3539,493,116,33
+Shanghai Office - A -48,May-21,184,2321,258,44,12
+Shanghai Office - B - 8,Nov-17,9,230,16,11,2
+Shanghai Office - B - 8,Dec-17,1,1,1,0,0
+Shanghai Office - B - 8,Jan-18,36,1179,89,33,5
+Shanghai Office - B - 8,Feb-18,57,2665,159,58,10
+Shanghai Office - B - 8,Mar-18,107,3991,436,208,29
+Shanghai Office - B - 8,Apr-18,112,4023,387,195,18
+Shanghai Office - B - 8,May-18,117,4096,444,205,29
+Shanghai Office - B - 8,Jun-18,98,3740,404,214,36
+Shanghai Office - B - 8,Jul-18,100,5214,425,214,26
+Shanghai Office - B - 8,Aug-18,120,5286,433,197,25
+Shanghai Office - B - 8,Sep-18,96,3461,293,119,7
+Shanghai Office - B - 8,Oct-18,87,4592,358,166,13
+Shanghai Office - B - 8,Nov-18,100,3155,336,156,14
+Shanghai Office - B - 8,Dec-18,85,6761,341,142,22
+Shanghai Office - B - 8,Jan-19,133,4951,390,152,17
+Shanghai Office - B - 8,Feb-19,86,3685,281,114,16
+Shanghai Office - B - 8,Mar-19,101,5141,440,198,15
+Shanghai Office - B - 8,Apr-19,118,4483,547,183,20
+Shanghai Office - B - 8,May-19,118,4331,442,163,17
+Shanghai Office - B - 8,Jun-19,149,8592,607,248,31
+Shanghai Office - B - 8,Jul-19,182,7918,687,289,35
+Shanghai Office - B - 8,Aug-19,129,5815,520,183,20
+Shanghai Office - B - 8,Sep-19,158,6733,669,252,33
+Shanghai Office - B - 8,Oct-19,158,6304,619,257,27
+Shanghai Office - B - 8,Nov-19,148,5793,563,217,28
+Shanghai Office - B - 8,Dec-19,138,5278,519,199,23
+Shanghai Office - B - 8,Jan-20,105,4556,314,106,15
+Shanghai Office - B - 8,Feb-20,172,8322,701,275,37
+Shanghai Office - B - 8,Mar-20,172,8333,764,275,39
+Shanghai Office - B - 8,Apr-20,133,4474,481,200,29
+Shanghai Office - B - 8,May-20,110,3602,377,117,18
+Shanghai Office - B - 8,Jun-20,142,5672,488,200,29
+Shanghai Office - B - 8,Jul-20,181,5930,551,187,38
+Shanghai Office - B - 8,Aug-20,182,6420,635,227,39
+Shanghai Office - B - 8,Sep-20,197,6981,595,203,31
+Shanghai Office - B - 8,Oct-20,129,3788,369,118,25
+Shanghai Office - B - 8,Nov-20,193,5546,525,159,30
+Shanghai Office - B - 8,Dec-20,178,5828,393,154,32
+Shanghai Office - B - 8,Jan-21,234,6123,533,199,36
+Shanghai Office - B - 8,Feb-21,166,3034,399,176,35
+Shanghai Office - B - 8,Mar-21,296,6254,689,294,56
+Shanghai Office - B - 8,Apr-21,273,4741,601,244,39
+Shanghai Office - B - 8,May-21,224,2335,246,94,17
+Shanghai Office - C - Qiantan,Aug-18,1,35,3,2,0
+Shanghai Office - C - Qiantan,Sep-18,3,13,3,2,0
+Shanghai Office - C - Qiantan,Oct-18,9,784,26,13,8
+Shanghai Office - C - Qiantan,Nov-18,5,305,6,3,0
+Shanghai Office - C - Qiantan,Dec-18,6,204,8,3,1
+Shanghai Office - C - Qiantan,Jan-19,8,387,20,9,5
+Shanghai Office - C - Qiantan,Feb-19,3,124,3,1,0
+Shanghai Office - C - Qiantan,Mar-19,7,80,16,6,2
+Shanghai Office - C - Qiantan,Apr-19,35,623,113,63,20
+Shanghai Office - C - Qiantan,May-19,15,1490,43,13,3
+Shanghai Office - C - Qiantan,Jun-19,26,834,45,16,6
+Shanghai Office - C - Qiantan,Jul-19,38,3419,83,27,12
+Shanghai Office - C - Qiantan,Aug-19,45,1252,146,38,11
+Shanghai Office - C - Qiantan,Sep-19,19,669,71,20,2
+Shanghai Office - C - Qiantan,Oct-19,31,1236,136,40,8
+Shanghai Office - C - Qiantan,Nov-19,35,1348,77,23,4
+Shanghai Office - C - Qiantan,Dec-19,37,707,64,12,5
+Shanghai Office - C - Qiantan,Jan-20,16,509,36,6,0
+Shanghai Office - C - Qiantan,Feb-20,73,1960,202,40,4
+Shanghai Office - C - Qiantan,Mar-20,57,1773,215,51,13
+Shanghai Office - C - Qiantan,Apr-20,48,1112,71,15,9
+Shanghai Office - C - Qiantan,May-20,38,1350,120,25,7
+Shanghai Office - C - Qiantan,Jun-20,57,2261,74,21,9
+Shanghai Office - C - Qiantan,Jul-20,52,2049,67,21,9
+Shanghai Office - C - Qiantan,Aug-20,59,1884,37,17,11
+Shanghai Office - C - Qiantan,Sep-20,39,2424,70,14,8
+Shanghai Office - C - Qiantan,Oct-20,49,1506,104,27,12
+Shanghai Office - C - Qiantan,Nov-20,54,2451,70,33,21
+Shanghai Office - C - Qiantan,Dec-20,75,3166,102,32,13
+Shanghai Office - C - Qiantan,Jan-21,128,4955,310,117,21
+Shanghai Office - C - Qiantan,Feb-21,39,723,83,37,11
+Shanghai Office - C - Qiantan,Mar-21,111,2441,243,104,31
+Shanghai Office - C - Qiantan,Apr-21,114,1667,256,96,34
+Shanghai Office - C - Qiantan,May-21,68,735,66,27,14
+Shenzhen Office,Jan-18,10,508,66,40,8
+Shenzhen Office,Feb-18,24,262,32,11,7
+Shenzhen Office,Mar-18,100,5024,366,115,12
+Shenzhen Office,Apr-18,61,2258,258,78,10
+Shenzhen Office,May-18,68,3100,293,82,9
+Shenzhen Office,Jun-18,78,3898,345,117,8
+Shenzhen Office,Jul-18,68,3092,287,96,19
+Shenzhen Office,Aug-18,49,1668,194,71,13
+Shenzhen Office,Sep-18,54,1609,135,39,3
+Shenzhen Office,Oct-18,60,2028,214,72,13
+Shenzhen Office,Nov-18,72,1597,216,75,8
+Shenzhen Office,Dec-18,55,1134,171,43,5
+Shenzhen Office,Jan-19,94,3718,322,96,8
+Shenzhen Office,Feb-19,58,1311,179,44,7
+Shenzhen Office,Mar-19,111,3063,469,146,14
+Shenzhen Office,Apr-19,102,3089,452,159,15
+Shenzhen Office,May-19,89,3128,411,121,9
+Shenzhen Office,Jun-19,98,4017,527,189,19
+Shenzhen Office,Jul-19,156,5237,703,235,34
+Shenzhen Office,Aug-19,135,3281,451,120,9
+Shenzhen Office,Sep-19,83,2875,374,122,15
+Shenzhen Office,Oct-19,76,1334,218,57,6
+Shenzhen Office,Nov-19,62,1520,190,68,8
+Shenzhen Office,Dec-19,59,1328,229,83,15
+Shenzhen Office,Jan-20,42,1255,203,58,11
+Shenzhen Office,Feb-20,133,3866,576,158,21
+Shenzhen Office,Mar-20,133,2584,331,96,17
+Shenzhen Office,Apr-20,111,2188,237,80,8
+Shenzhen Office,May-20,81,1348,177,54,7
+Shenzhen Office,Jun-20,89,1743,237,81,12
+Shenzhen Office,Jul-20,135,3762,357,121,23
+Shenzhen Office,Aug-20,151,4111,411,152,24
+Shenzhen Office,Sep-20,109,2878,290,99,13
+Shenzhen Office,Oct-20,86,2118,279,108,13
+Shenzhen Office,Nov-20,118,2408,298,117,20
+Shenzhen Office,Dec-20,129,2959,334,142,25
+Shenzhen Office,Jan-21,117,2448,310,120,22
+Shenzhen Office,Feb-21,130,2826,429,162,27
+Shenzhen Office,Mar-21,173,2421,407,144,24
+Shenzhen Office,Apr-21,193,3733,492,168,19
+Shenzhen Office,May-21,180,1538,218,58,6
+Suzhou Office,Dec-17,1,24,1,0,1
+Suzhou Office,Jan-18,33,2248,90,31,1
+Suzhou Office,Feb-18,63,4173,181,66,15
+Suzhou Office,Mar-18,115,4565,283,94,21
+Suzhou Office,Apr-18,68,4743,133,56,27
+Suzhou Office,May-18,78,7835,220,95,38
+Suzhou Office,Jun-18,64,2904,141,75,19
+Suzhou Office,Jul-18,56,2819,127,70,21
+Suzhou Office,Aug-18,81,4531,141,68,18
+Suzhou Office,Sep-18,59,3022,164,46,19
+Suzhou Office,Oct-18,56,3614,128,45,15
+Suzhou Office,Nov-18,84,5665,115,39,15
+Suzhou Office,Dec-18,78,2650,99,34,19
+Suzhou Office,Jan-19,96,4230,153,61,19
+Suzhou Office,Feb-19,71,2373,145,54,11
+Suzhou Office,Mar-19,116,4196,359,161,30
+Suzhou Office,Apr-19,81,3842,214,75,19
+Suzhou Office,May-19,71,3995,85,36,16
+Suzhou Office,Jun-19,89,3672,215,77,30
+Suzhou Office,Jul-19,102,3864,197,55,19
+Suzhou Office,Aug-19,85,3643,179,60,24
+Suzhou Office,Sep-19,60,2372,151,64,9
+Suzhou Office,Oct-19,53,3418,82,44,17
+Suzhou Office,Nov-19,63,2236,126,57,15
+Suzhou Office,Dec-19,57,2392,140,45,13
+Suzhou Office,Jan-20,57,3255,201,65,20
+Suzhou Office,Feb-20,152,7371,468,117,21
+Suzhou Office,Mar-20,134,6046,379,98,28
+Suzhou Office,Apr-20,87,2404,268,71,28
+Suzhou Office,May-20,93,6545,351,119,28
+Suzhou Office,Jun-20,91,2955,203,69,22
+Suzhou Office,Jul-20,112,6405,195,52,15
+Suzhou Office,Aug-20,78,2735,159,63,24
+Suzhou Office,Sep-20,71,5402,163,47,17
+Suzhou Office,Oct-20,55,1225,83,26,16
+Suzhou Office,Nov-20,58,1124,75,37,20
+Suzhou Office,Dec-20,45,679,53,23,11
+Suzhou Office,Jan-21,67,2057,120,46,13
+Suzhou Office,Feb-21,55,965,40,17,16
+Suzhou Office,Mar-21,63,1656,57,21,13
+Suzhou Office,Apr-21,65,1577,73,26,21
+Suzhou Office,May-21,46,458,16,11,10
